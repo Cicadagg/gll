@@ -1,0 +1,285 @@
+{
+    "MainInfo": {
+        "headerTitle": "Great Limbus Library ist eine Fanseite und Datenbank",
+        "headerDescription": "entwickelt von der Community, gewidmet der Limbus Company."
+    },
+    "EntitySection": {
+        "new": "Kürzlich veröffentlichte Identitäten und EGOs"
+    },
+    "NavigationSection": {
+        "header": "Schnelle Seitennavigation",
+        "teambuilder": "Team erstellen",
+        "identities": "Liste der Identitäten mit Filtern",
+        "ego": "Liste der EGOs mit Filtern",
+        "statuses": "Informationen zu Buffs, Debuffs und anderen Status",
+        "tierlist": "Tier-Listen von Identitäten, EGOs und Passiven"
+    },
+    "EventsSection": {
+        "header": "Aktive Veranstaltungen",
+        "eventStarts": "Veranstaltung beginnt in: ",
+        "eventEnds": "Veranstaltung endet in: ",
+        "eventEnded": "Veranstaltung vor Kurzem beendet",
+        "d": "T",
+        "m": "M",
+        "s": "S",
+        "h": "Std"
+    },
+    "OfficialLinksSection": {
+        "header": "Offizielle Links"
+    },
+    "ToDoSection": {
+        "1": "Hinzufügen von Anleitungen",
+        "2": "Verbesserung der Funktionen des Team-Builders",
+        "3": "Allgemeine Verbesserungen des Interface und Inhalts der Website",
+        "header": "Pläne zur Verbesserung der Website",
+        "contactUs": "Wenn Sie Ideen oder Vorschläge haben, kontaktieren Sie uns bitte"
+    },
+    "LeftMenu": {
+        "tierlist": "TIER LISTE",
+        "teambuilder": "TEAM BUILDER",
+        "identities": "IDENTITÄTEN",
+        "ego": "EGO",
+        "statuses": "STATUS",
+        "aboutgame": "ÜBER DAS SPIEL",
+        "contact": "UNSERE KONTAKTE"
+    },
+    "TierListPage": {
+        "title": "Tier Liste",
+        "header": "Tier Liste",
+        "description": "Nur der Tier der Identitäten/EGOs ist wichtig. Innerhalb der Tiers ist die Position der Identitäten/EGOs KEINE Rangliste der Stärke."
+    },
+    "TierListNav": {
+        "ego": "EGO",
+        "identities": "Identitäten",
+        "passives": "Pässe"
+    },
+    "TierList": {
+        "name": {
+            "identities": "Identitäten",
+            "ego": "EGO",
+            "battlePassives": "Kampfpässe",
+            "supportPassives": "Unterstützungspässe"
+        },
+        "description": {
+            "SSS": "Diese Identitäten/EGOs sind in der Lage, mühelos alle Inhalte im Spiel zu überwinden.",
+            "SS": "Sehr mächtige Identitäten/EGOs, die knapp daran scheitern, in die SSS-Kategorie einzutreten.",
+            "S": "Starke Identitäten/EGOs, die erfolgreich mit vielfältigen Inhalten umgehen können, aber durch noch mächtigere Vertreter aus der SS-Klasse ersetzt werden können.",
+            "A": "Durchschnittliche Identitäten/EGOs mit einigen Stärken, aber auch Schwächen.",
+            "B": "Vergleichsweise schwache Identitäten/EGOs, die nur in extremen Notfällen gewählt werden sollten.",
+            "C": "Unwirksame Identitäten/EGOs; es ist am besten, sie zu vermeiden, da sie nicht in der Lage sind, im Spiel erfolgreich Aufgaben zu erledigen."
+        }
+    },
+    "Filters": {
+        "header": "Filter",
+        "clearFilters": "Filter löschen",
+        "showFilters": "Filter anzeigen",
+        "empty": "Die Liste ist leer, aber Sie können sie durch Löschen einiger Filter beheben."
+    },
+    "TierBar": {
+        "tier": "Stufe"
+    },
+    "FiltersList": {
+        "header": {
+            "dmgType": "Schadensart",
+            "guardType": "Schutzart",
+            "rarity": "Seltenheit",
+            "dangerLvl": "Gefahrenstufe",
+            "sin": "Sünde",
+            "sinner": "Sünder",
+            "statusType": "Statusart"
+        }
+    },
+    "Search": {
+        "placeholder": "Nach Namen filtern..."
+    },
+    "TeamBuilderPage": {
+        "title": "Team-Generator",
+        "header": "Team-Generator"
+    },
+    "TbSins.header": "Energie",
+    "TbTags": {
+        "header": "Status",
+        "empty": "Die Liste der Status ist leer. Fügen Sie Identität oder EGO zu einem beliebigen Slot hinzu."
+    },
+    "TbSlots": {
+        "reset": "Zurücksetzen",
+        "slotsCount": "Anzahl der Slots"
+    },
+    "TbListIds": {
+        "header": "Liste der Identitäten",
+        "empty": "Keine verfügbaren Identitäten. Versuchen Sie, einige Filter zu deaktivieren."
+    },
+    "TbListEGO": {
+        "header": "Liste der EGO",
+        "empty": "Keine verfügbaren EGOs. Versuchen Sie, einige Filter zu deaktivieren."
+    },
+    "TbInfo": {
+        "energyConsumption": "Energieverbrauch",
+        "energyGain": "Energiegewinn",
+        "ids": "Identitäten",
+        "ego": "EGO"
+    },
+    "EGOsPage": {
+        "title": "Liste der EGO",
+        "header": "Liste der EGO"
+    },
+    "IdentitiesPage": {
+        "title": "Liste der Identitäten",
+        "header": "Liste der Identitäten"
+    },
+    "ListEgo": {
+        "empty": "Keine verfügbaren EGOs. Versuchen Sie, einige Filter zu deaktivieren.",
+        "header": "Gefundene EGOs"
+    },
+    "ListIds": {
+        "empty": "Keine verfügbaren Identitäten. Versuchen Sie, einige Filter zu deaktivieren.",
+        "header": "Gefundene Identitäten"
+    },
+    "StatusesPage": {
+        "title": "Liste der Status",
+        "header": "Liste der Status"
+    },
+    "StatusesTable": {
+        "header": {
+            "sinner": "Status im Zusammenhang mit Sündern",
+            "anomaly": "Status im Zusammenhang mit Anomalien"
+        },
+        "status": "Status",
+        "name": "Name",
+        "description": "Beschreibung"
+    },
+    "AboutGamePage.title": "Über das Spiel",
+    "AboutGameInfo": {
+        "officialLinks": "Offizielle Links",
+        "header": "Über das Spiel",
+        "text": {
+            "1": "ist ein unabhängiges Horror-Rollenspiel für Microsoft Windows und mobile Geräte mit iOS oder Android, entwickelt und veröffentlicht von dem südkoreanischen Studio",
+            "2": " Es wurde weltweit am 26. Februar 2023 veröffentlicht. Das Spiel spielt in derselben dystopischen, hyperkapitalistischen Welt, die nur als 'Die Stadt' bekannt ist, in der alle anderen Werke von Project Moon stattfinden, einschließlich Lobotomy Corporation, Library of Ruina und einem Webcomic mit dem Titel Leviathan, aber einige Zeit nach den Ereignissen all dieser Geschichten."
+        }
+    },
+    "ContactPage.title": "Kontakt",
+    "ContactInfo": {
+        "header": "Unsere Kontakte:",
+        "copied": "Nickname kopiert",
+        "originalAuthor": "Urheber des Originaldokuments",
+        "creator": "Webseitenersteller",
+        "workers.header": "Mitarbeiter der Website:",
+        "workers1": {
+            "header": "Bibliotheksleiter:",
+            "1": "Ritsu",
+            "2": "GodMod",
+            "3": "Kamikotosss"
+        },
+        "workers2": {
+            "header": "Buchjäger (Editoren):",
+            "1": "ManulGod",
+            "2": "hgjrtu",
+            "3": "Sir Alonne",
+            "4": "turbae_carissimus",
+            "5": "morj.",
+            "6": "Licht & Ruchi als Mitarbeiter für einen Tag"
+        },
+        "workers3": {
+            "header": "Besonderer Dank:",
+            "1": "CHACHENWAGEN TV"
+        }
+    },
+    "DisclaimerBanner.1": " - ist eine Fanseite und Datenbank, die von der Community für das Spiel gewidmet wurde ",
+    "DisclaimerBanner.2": "Diese Website ist keine offizielle Ressource von ",
+    "DisclaimerBanner.3": ", und alle Materialien bleiben im Eigentum ihrer ursprünglichen Eigentümer.",
+    "DisclaimerBanner.confirm": "VERSTANDEN",
+    "LoadingAnimation": {
+        "text": "Laden",
+        "delay": "Wir haben eine hohe Serverlast; die Wartezeit wird etwas länger dauern."
+    },
+    "ErrorInfo": {
+        "header": "Fehler",
+        "toMain": "Zurück zur Hauptseite"
+    },
+    "ItemIdentityInfo": {
+        "battlePassive": "Kampfpassiv",
+        "supportPassive": "Unterstützendes Passiv"
+    },
+    "EntityFullInfoEGO": {
+        "statuses": "Status",
+        "res": "Widerstände",
+        "cost": "Kosten"
+    },
+    "EntityFullInfoSkillEGO": {
+        "baseValue": "Grundwert",
+        "corrosion": "KORROSION",
+        "coinGain": "Grundmünzgewinn",
+        "guardType": "Schutztyp",
+        "damageType": "Schadensart",
+        "sin": "Sünde",
+        "sanity": "Geisteszustand Kosten",
+        "maxCoin": "Maximaler Münzwert (Grundlage)",
+        "coinCondition": "Maximaler Münzwert unter Berücksichtigung von Skill- und Kampfpassivbedingungen",
+        "weightBase": "Anzahl der durch den Skill getroffenen Slots (Grundlage)",
+        "weight": "Anzahl der durch den Skill getroffenen Slots unter Berücksichtigung von Buffs"
+    },
+    "EntityFullInfoSkill": {
+        "skill": "Fertigkeit",
+        "defSkill": "Defensive Fertigkeit",
+        "count": "Anzahl in der Rotation von 6 Fertigkeiten",
+        "baseValue": "Grundwert",
+        "coinGain": "Grundmünzgewinn",
+        "guardType": "Schutztyp",
+        "damageType": "Schadensart",
+        "sin": "Sünde",
+        "maxCoin": "Maximaler Münzwert (Grundlage)",
+        "coinCondition": "Maximaler Münzwert unter Berücksichtigung von Skill- und Kampfpassivbedingungen",
+        "defenceLevel": "Verteidigungsstufe",
+        "offenceLevel": "Angriffsstufe",
+        "minPotencial": "Minimale potenzielle Schadenshöhe der Fertigkeit (Berechnungen von Sir Alonne)",
+        "maxPotencial": "Maximale potenzielle Schadenshöhe der Fertigkeit (Berechnungen von Sir Alonne)",
+        "weightBase": "Anzahl der durch die Fertigkeit getroffenen Slots (Grundlage)",
+        "weight": "Anzahl der durch die Fertigkeit getroffenen Slots unter Berücksichtigung von Buffs"
+    },
+    "EntityFullInfoIdentity": {
+        "statuses": "Status",
+        "stagger": "Schwellenwert für Taumeln",
+        "stats": "Statistiken",
+        "res": "Widerstände"
+    },
+    "EntityFullInfoPassive": {
+        "res": " Widerstand.",
+        "owned": " Besessen"
+    },
+    "EntityFullInfoSkills": {
+        "battlePassive": "Kampfpassiv",
+        "supportPassive": "Unterstützendes Passiv"
+    },
+    "LanguageDisclaimer.tooltip": "Diese Übersetzung wurde automatisch mithilfe der Technologie maschineller Übersetzung erstellt. Wir bemühen uns um Genauigkeit und Qualität der Übersetzung, können jedoch die vollständige Abwesenheit von Fehlern nicht garantieren. Wir übernehmen keine Verantwortung für Missverständnisse, Auslassungen oder Unrichtigkeiten im übersetzten Text. Falls Sie Anmerkungen haben oder einen Fehler bemerkt haben, teilen Sie uns dies bitte mit, damit wir entsprechende Korrekturen vornehmen können. Wir danken Ihnen für Ihr Verständnis.",
+    "SkillCoinDescription.clickToSeeDescription":"Klicken Sie, um die Beschreibung zu sehen",
+    "SEOHelmet.keywords": "GLL, GreatLimbusLibrary, Limbus, Wiki, Datenbank, Große Limbus-Bibliothek, Limbus-Firma, Gacha, Tier List,  Faust, Don Quichote, Yi Sang, Ryoshu, Mersault, Hong Lu, HeathCliff, Ishmael, Rodion, Sinclair, Outis, Gregor, Limbus Company, Charaktere, Anleitungen, Events, Nachrichten, Fanseite, EGO, Persönlichkeiten, Sünden, Ultimates, Passivfähigkeiten, Status, Team Builder, Vergleich, Team, Trupp, Events",
+    "SEOHelmet.description": "Great Limbus Library ist eine Fanseite und eine von der Community getriebene Datenbank für das Spiel Limbus Company. Guides, Identitäten, EGOs, Nachrichten, Veranstaltungen, Listen und Team Builder.",
+    "SkillCoinDescription": {
+        "[onhit]": "[Bei Treffer] ",
+        "[clashwin]": "[Konfliktgewinn] ",
+        "[combatstart]": "[Kampfbeginn] ",
+        "[clashlose]": "[Konfliktverlust] ",
+        "[onuse]": "[Bei Nutzung] ",
+        "[onkill]": "[Bei Tötung] ",
+        "[onevade]": "[Bei Ausweichen] ",
+        "[headshit]": "[Treffer auf den Kopf] ",
+        "[hitafterclashwin]": "[Treffer nach Konfliktgewinn] ",
+        "[afterattack]": "[Nach Angriff] ",
+        "[beforeattack]": "[Vor Angriff] ",
+        "[reuse-headshit]": "[Wiederverwendung - Treffer auf den Kopf] ",
+        "[tailshit]": "[Treffer auf den Schwanz] ",
+        "[oncrit]": "[Bei Krit] ",
+        "[indiscriminate]": "[Ununterscheidbar] ",
+        "[headsattackend]": "[Ende des Angriffs auf den Kopf] ",
+        "[tailsattackend]": "[Ende des Angriffs auf den Schwanz] ",
+        "[failedkill]": "[Fehlgeschlagene Tötung] ",
+        "[critattackend]": "[Ende des kritischen Angriffs] ",
+        "fc": " Endgültige Kraft",
+        "bc": " Grundkraft",
+        "cg": " Münzkraft",
+        "cp": " Konfliktkraft",
+        "weigth": " Angriffsgewicht"
+    }
+    
+    
+}

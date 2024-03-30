@@ -1,0 +1,286 @@
+
+{
+    "MainInfo": {
+    "headerTitle": "Great Limbus Library to fanowska strona i baza danych",
+    "headerDescription": "rozwijana przez społeczność, dedykowana Limbus Company."
+    },
+    "EntitySection": {
+    "new": "Ostatnio wydane Tożsamości i EGO"
+    },
+    "NavigationSection": {
+    "header": "Szybka nawigacja po stronie",
+    "teambuilder": "Budowanie zespołu",
+    "identities": "Lista Tożsamości z filtrami",
+    "ego": "Lista EGO z filtrami",
+    "statuses": "Informacje o buffach, debuffach i innych statusach",
+    "tierlist": "Tier listy Tożsamości, EGO i Pasywów"
+    },
+    "EventsSection": {
+    "header": "Aktywne wydarzenia",
+    "eventStarts": "Początek wydarzenia za: ",
+    "eventEnds": "Koniec wydarzenia za: ",
+    "eventEnded": "Wydarzenie zakończone niedawno",
+    "d": "d",
+    "m": "m",
+    "s": "s",
+    "h": "g"
+    },
+    "OfficialLinksSection": {
+    "header": "Oficjalne linki"
+    },
+    "ToDoSection": {
+    "1": "Dodawanie poradników",
+    "2": "Doskonalenie funkcji budowania zespołu",
+    "3": "Ogólne ulepszenia interfejsu i treści na stronie",
+    "header": "Plany ulepszeń strony",
+    "contactUs": "Jeśli masz pomysły lub sugestie, skontaktuj się z nami"
+    },
+    "LeftMenu": {
+    "tierlist": "LISTA TIERÓW",
+    "teambuilder": "BUDOWANIE ZESPOŁU",
+    "identities": "TOŻSAMOŚCI",
+    "ego": "EGO",
+    "statuses": "STATUSY",
+    "aboutgame": "O GRZE",
+    "contact": "NASZE KONTAKTY"
+    },
+    "TierListPage": {
+    "title": "Lista Tierów",
+    "header": "Lista Tierów",
+    "description": "Tylko tier Tożsamości/EGO ma znaczenie. W obrębie tierów pozycja Tożsamości/EGO NIE jest rankingiem siły."
+    },
+    "TierListNav": {
+    "ego": "EGO",
+    "identities": "Tożsamości",
+    "passives": "Pasywy"
+    },
+    "TierList": {
+    "name": {
+    "identities": "Tożsamości",
+    "ego": "EGO",
+    "battlePassives": "Pasywy bojowe",
+    "supportPassives": "Pasywy wsparcia"
+    },
+    "description": {
+    "SSS": "Te Tożsamości/EGO są w stanie bezproblemowo pokonać wszelkie zawartości w grze.",
+    "SS": "Bardzo potężne Tożsamości/EGO, które nieco nie wystarczają, aby wejść do kategorii SSS.",
+    "S": "Silne Tożsamości/EGO, które skutecznie radzą sobie z różnorodnymi zawartościami, ale mogą zostać zastąpione jeszcze potężniejszymi przedstawicielami z tieru SS.",
+    "A": "Średnie Tożsamości/EGO z pewnymi mocnymi stronami, ale także ze słabościami.",
+    "B": "Porównywalnie słabe Tożsamości/EGO, które powinny być wybierane tylko w przypadkach skrajnej konieczności.",
+    "C": "Nieskuteczne Tożsamości/EGO; najlepiej ich unikać, ponieważ nie są w stanie skutecznie wykonywać zadań w grze."
+    }
+    },
+    "Filters": {
+    "header": "Filtry",
+    "clearFilters": "Wyczyść filtry",
+    "showFilters": "Pokaż filtry",
+    "empty": "Lista jest pusta, ale można to naprawić, usuwając niektóre filtry"
+    },
+    "TierBar": {
+    "tier": "tier"
+    },
+    "FiltersList": {
+    "header": {
+    "dmgType": "Typ obrażeń",
+    "guardType": "Typ ochrony",
+    "rarity": "Rzadkość",
+    "dangerLvl": "Poziom niebezpieczeństwa",
+    "sin": "Grzech",
+    "sinner": "Grzesznik",
+    "statusType": "Typ statusu"
+    }
+    },
+    "Search": {
+    "placeholder": "Filtruj według nazwy..."
+    },
+    "TeamBuilderPage": {
+    "title": "Budowanie Zespołu",
+    "header": "Budowanie Zespołu"
+    },
+    "TbSins.header": "Energia",
+    "TbTags": {
+    "header": "Statusy",
+    "empty": "Lista statusów jest pusta, dodaj Tożsamość lub EGO do dowolnego slotu"
+    },
+    "TbSlots": {
+    "reset": "Resetuj",
+    "slotsCount": "Liczba slotów"
+    },
+    "TbListIds": {
+    "header": "Lista Tożsamości",
+    "empty": "Brak dostępnych Tożsamości. Spróbuj wyłączyć niektóre filtry."
+    },
+    "TbListEGO": {
+    "header": "Lista EGO",
+    "empty": "Brak dostępnych EGO. Spróbuj wyłączyć niektóre filtry."
+    },
+    "TbInfo": {
+    "energyConsumption": "Zużycie energii",
+    "energyGain": "Zysk energii",
+    "ids": "Tożsamości",
+    "ego": "EGO"
+    },
+    "EGOsPage": {
+    "title": "Lista EGO",
+    "header": "Lista EGO"
+    },
+    "IdentitiesPage": {
+    "title": "Lista Tożsamości",
+    "header": "Lista Tożsamości"
+    },
+    "ListEgo": {
+        "empty": "Brak dostępnych EGO. Spróbuj wyłączyć niektóre filtry.",
+        "header": "Znalezione EGO"
+    },
+    "ListIds": {
+        "empty": "Brak dostępnych Tożsamości. Spróbuj wyłączyć niektóre filtry.",
+        "header": "Znalezione Tożsamości"
+    },
+    "StatusesPage": {
+        "title": "Lista Statusów",
+        "header": "Lista Statusów"
+    },
+    "StatusesTable": {
+        "header": {
+            "sinner": "Statusy związane z grzesznikami",
+            "anomaly": "Statusy związane z anomaliami"
+        },
+        "status": "Status",
+        "name": "Nazwa",
+        "description": "Opis"
+    },
+    "AboutGamePage.title": "O Grze",
+    "AboutGameInfo": {
+        "officialLinks": "Oficjalne Linki",
+        "header": "O Grze",
+        "text": {
+            "1": "to niezależna horrorowa gra fabularna dla systemu Microsoft Windows i urządzeń mobilnych z systemem iOS lub Android, stworzona i wydana przez południowokoreańskie studio",
+            "2": " Została wydana na całym świecie 26 lutego 2023 roku. Gra rozgrywa się w tym samym dystopijnym, hiperkapitalistycznym świecie znanym tylko jako „The City”, gdzie toczą się wszystkie inne prace Project Moon, w tym Lobotomy Corporation, Library of Ruina i komiks internetowy zatytułowany Leviathan, ale dzieje się to pewien czas po wydarzeniach wszystkich tych historii."
+        }
+    },
+    "ContactPage.title": "Kontakt",
+    "ContactInfo": {
+        "header": "Nasze Kontakty:",
+        "copied": "Skopiowano pseudonim",
+        "originalAuthor": "Oryginalny Autor Dokumentu",
+        "creator": "Twórca Strony",
+        "workers.header": "Współpracownicy Strony:",
+        "workers1": {
+            "header": "Głowy Biblioteki:",
+            "1": "Ritsu",
+            "2": "GodMod",
+            "3": "Kamikotosss"
+        },
+        "workers2": {
+            "header": "Łowcy Książek (Redaktorzy):",
+            "1": "ManulGod",
+            "2": "hgjrtu",
+            "3": "Sir Alonne",
+            "4": "turbae_carissimus",
+            "5": "morj.",
+            "6": "Licht & Ruchi jako Pracownicy na jeden Dzień"
+        },
+        "workers3": {
+            "header": "Specjalne Podziękowania:",
+            "1": "CHACHENWAGEN TV"
+        }
+    },
+    "DisclaimerBanner.1": " - to fanowska strona i baza danych stworzona przez społeczność, poświęcona grze ",
+    "DisclaimerBanner.2": "Ta strona nie jest oficjalnym źródłem ",
+    "DisclaimerBanner.3": ", a wszystkie materiały pozostają własnością ich oryginalnych właścicieli.",
+    "DisclaimerBanner.confirm": "ROZUMIEM",
+    "LoadingAnimation": {
+        "text": "Ładowanie",
+        "delay": "Mamy duże obciążenie serwera; oczekiwanie potrwa trochę dłużej."
+    },
+    "ErrorInfo": {
+        "header": "Błąd",
+        "toMain": "Powrót do strony głównej"
+    },
+    "ItemIdentityInfo": {
+        "battlePassive": "Pasyw bojowy",
+        "supportPassive": "Pasyw wsparcia"
+    },
+    "EntityFullInfoEGO": {
+        "statuses": "Statusy",
+        "res": "Odporności",
+        "cost": "Koszt"
+    },
+    "EntityFullInfoSkillEGO": {
+        "baseValue": "Bazowa Wartość",
+        "corrosion": "KOROZJA",
+        "coinGain": "Bazowy Zysk Monet",
+        "guardType": "Typ Ochrony",
+        "damageType": "Typ Obrażeń",
+        "sin": "Grzech",
+        "sanity": "Koszt Zdrowia Psychicznego",
+        "maxCoin": "Maksymalna Wartość Monet (Bazowa)",
+        "coinCondition": "Maksymalna Wartość Monet uwzględniająca warunki Umiejętności i Pasywów Bojowych",
+        "weightBase": "Liczba slotów trafionych umiejętnością (Bazowa)",
+        "weight": "Liczba slotów trafionych umiejętnością uwzględniając buffy"
+    },
+    "EntityFullInfoSkill": {
+        "skill": "Umiejętność",
+        "defSkill": "Umiejętność Obronna",
+        "count": "Liczba w rotacji 6 umiejętności",
+        "baseValue": "Bazowa Wartość",
+        "coinGain": "Bazowy Zysk Monet",
+        "guardType": "Typ Ochrony",
+        "damageType": "Typ Obrażeń",
+        "sin": "Grzech",
+        "maxCoin": "Maksymalna Wartość Monet (Bazowa)",
+        "coinCondition": "Maksymalna Wartość Monet uwzględniająca warunki Umiejętności i Pasywów Bojowych",
+        "defenceLevel": "Poziom Obrony",
+        "offenceLevel": "Poziom Ataku",
+        "minPotencial": "Minimalne Potencjalne Obrażenia umiejętności (obliczenia autorstwa Sir Alonne)",
+        "maxPotencial": "Maksymalne Potencjalne Obrażenia umiejętności (obliczenia autorstwa Sir Alonne)",
+        "weightBase": "Liczba slotów trafionych umiejętnością (Bazowa)",
+        "weight": "Liczba slotów trafionych umiejętnością uwzględniając buffy"
+    },
+    "EntityFullInfoIdentity": {
+        "statuses": "Statusy",
+        "stagger": "Próg Zawrotów Głowy",
+        "stats": "Statystyki",
+        "res": "Odporności"
+    },
+    "EntityFullInfoPassive": {
+        "res": " Odp.",
+        "owned": " Posiadane"
+    },
+    "EntityFullInfoSkills": {
+        "battlePassive": "Pasyw Bojowy",
+        "supportPassive": "Pasyw Wsparcia"
+    },
+    "LanguageDisclaimer.tooltip": "Ten tłumaczenie zostało utworzone automatycznie przy użyciu technologii maszynowego tłumaczenia. Włożyliśmy starania, aby zapewnić dokładność i jakość tłumaczenia, jednak nie możemy zagwarantować całkowitego braku błędów. Nie ponosimy odpowiedzialności za jakiekolwiek nieporozumienia, pominięcia lub nieprawidłowości w przetłumaczonym tekście. Jeśli masz uwagi lub zauważyłeś(aś) błąd, prosimy o poinformowanie nas o tym, abyśmy mogli dokonać odpowiednich korekt. Dziękujemy za zrozumienie.",
+    "SkillCoinDescription.clickToSeeDescription":"Kliknij, aby zobaczyć opis",
+    "SEOHelmet.keywords": "GLL, GreatLimbusLibrary, Limbus, Wiki, Baza danych, Wielka Biblioteka Limbus, Firma Limbus, Gacha, Tier List, Faust, Don Kichot, Yi Sang, Ryoshu, Mersault, Hong Lu, HeathCliff, Ishmael, Rodion, Sinclair, Outis, Gregor, Тирлист, Гача, Limbus Company, Postacie, Poradniki, Wydarzenia, Wiadomości, Fanowska strona, EGO, Osobowości, Grzeszki, Ultimate, Umiejętności pasywne, Statusy, Kalkulator drużyny, Porównanie, Drużyna, Oddział, Wydarzenia",
+    "SEOHelmet.description": "Great Limbus Library to fanowski portal i baza danych tworzona przez społeczność, poświęcona grze Limbus Company. Przewodniki, Tożsamości, EGOs, Wiadomości, Wydarzenia, Listy poziomów i Kreator drużyny.",
+    "SkillCoinDescription": {
+        "[onhit]": "[Podczas Uderzenia] ",
+        "[clashwin]": "[Zwycięstwo w Konflikcie] ",
+        "[combatstart]": "[Rozpoczęcie Walki] ",
+        "[clashlose]": "[Przegrana w Konflikcie] ",
+        "[onuse]": "[Przy Użyciu] ",
+        "[onkill]": "[Podczas Zabicia] ",
+        "[onevade]": "[Podczas Uniknięcia] ",
+        "[headshit]": "[Trafienie w Głowę] ",
+        "[hitafterclashwin]": "[Trafienie po Zwycięstwie w Konflikcie] ",
+        "[afterattack]": "[Po Ataku] ",
+        "[beforeattack]": "[Przed Atakiem] ",
+        "[reuse-headshit]": "[Ponowne Użycie - Trafienie w Głowę] ",
+        "[tailshit]": "[Trafienie w Ogon] ",
+        "[oncrit]": "[Podczas Krytyka] ",
+        "[indiscriminate]": "[Bezrozróżnieniowe] ",
+        "[headsattackend]": "[Koniec Ataku w Głowę] ",
+        "[tailsattackend]": "[Koniec Ataku w Ogon] ",
+        "[failedkill]": "[Nieudane Zabicie] ",
+        "[critattackend]": "[Koniec Ataku Krytycznego] ",
+        "fc": " Ostateczna Siła",
+        "bc": " Bazowa Siła",
+        "cg": " Moc Monety",
+        "cp": " Moc Konfliktu",
+        "weigth": " Waga Ataku"
+    }
+    
+
+}

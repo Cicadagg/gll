@@ -1,0 +1,19 @@
+{
+  "short_name": "GLL",
+  "name": "Great Limbus Library",
+  "lang": "ru",
+  "categories": ["Games", "Entertainment"],
+  "description": "Great Limbus Library is a fan site and community-driven database dedicated to the Limbus Company game. Guides, Personalities, EGO, News, Events, Tier Lists, and Team Builder.",
+  "icons": [
+    {
+      "src": "GLLx200.png",
+      "sizes": "200x200",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

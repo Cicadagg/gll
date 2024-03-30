@@ -1,0 +1,361 @@
+{
+    "MainInfo": {
+        "headerTitle":"Great Limbus Library is a fan site and database",
+        "headerDescription":"developed by the community, dedicated to Limbus Company."
+    },
+    "EntitySection": {
+        "new" : "Recently Released Identities and EGOs"
+    },
+    "NavigationSection":{
+        "header":"Quick site navigation",
+        "teambuilder":"Team building",
+        "identities":"Identities list with filters",
+        "ego":"EGOs list with filters",
+        "statuses":"Information about buffs, debuffs and other statuses",
+        "tierlist":"Tier lists of Identities and EGOs"
+    },
+    "EventsSection":{
+        "header":"Active events",
+        "eventStarts":"Event starts in: ",
+        "eventEnds":"Event ends in: ",
+        "eventEnded": "Event recently ended",
+        "startDateUnknown":"The starting date of the event is unknown",
+        "endDateUnknown":"The event has started. The ending date is unknown",
+        "d":"d",
+        "m":"m",
+        "s":"s",
+        "h":"h"
+    },
+    "OfficialLinksSection":{
+        "header":"Official Links"
+    },
+    "ToDoSection":{
+        "1":"Adding guides",
+        "2":"Improving team builder functionality",
+        "3":"General improvements to the site's interface and content",
+        "header":"Site Improvement Plans",
+        "contactUs":"If you have ideas or suggestions, please contact us"
+    },
+    "LeftMenu":{
+        "tierlist":"TIER LIST",
+        "teambuilder":"TEAM BUILDER",
+        "identities":"IDENTITIES",
+        "ego":"EGO",
+        "statuses":"STATUSES",
+        "aboutgame":"ABOUT THE GAME",
+        "contact":"OUR CONTACTS"
+    },
+    "TierListPage":{
+        "title":"Tier List",
+        "header":"Tier List",
+        "description":"Only the tier of Identities/EGO matters. Within tiers, the position of Identities/EGO is NOT a ranking of strength."
+    },
+    "TierListNav":{
+        "ego":"EGO",
+        "identities":"Identities"
+    },
+    "TierList":{
+        "name":{
+            "identities":"Identities",
+            "ego":"EGO"
+        },
+        "description":{
+            "identities":{
+                "SSS":"The strongest identities, with a wide range of usage and performing well in most situations",
+                "SS":"Very strong identities, with uncomplicated conditions for realization, but with potential/universality less than that of the SSS tier identities",
+                "S":"Strong identities that require a lot of conditions for their realization",
+                "A":"Average in strength identities. Not bad, but not something outstanding",
+                "B":"The level of strength of these identities is below average, they are easily replaced and rarely used",
+                "C":"Weak identities unable to deal effectively with the game content"
+            },
+            "ego":{
+                "SSS":"The strongest and most versatile EGOs, used effectively in the vast majority of situations",
+                "SS":"Very strong EGOs with a limited range of uses",
+                "S":"Strong EGOs used in rare or specific situations or not powerful enough for SS range",
+                "A":"Medium strong EGOs that are rarely used and are often replaced by their counterparts",
+                "B":"Mediocre EGOs that are rarely used and do little work",
+                "C":"Weak EGOs unable to compete with their counterparts"
+            }
+        }
+        
+    },
+    "Filters":{
+        "header":"Filters",
+        "clearFilters":"Clear filters",
+        "showFilters":"Show filters",
+        "empty":"The list is empty, but you can fix it by clearing some of the filters"
+    },
+    "TierBar":{
+        "tier":"tier"
+    },
+    "FiltersList":{
+        "header":{
+            "dmgType":"Damage type",
+            "guardType":"Guard type",
+            "rarity":"Rarity",
+            "dangerLvl":"Danger level",
+            "sin":"Sin",
+            "sinner":"Sinner",
+            "statusType":"Status type"
+        }
+    },
+    "Search":{
+        "placeholder":"Filter by name..."
+    },
+    "TeamBuilderPage":{
+        "title":"Team Builder",
+        "header":"Team Builder"
+    },
+    "TbSins.header": "Energy",
+    "TbTags": {
+        "header": "Statuses",
+        "empty": "The list of statuses is empty, add Identity or EGO to any slot"
+    },
+    "TbSlots": {
+        "reset": "Reset",
+        "slotsCount": "Number of slots"
+    },
+    "TbListIds": {
+        "header": "List of Identities",
+        "empty": "No available Identities. Try disabling some filters."
+    },
+    "TbListEGO": {
+        "header": "List of EGO",
+        "empty": "No available EGO. Try disabling some filters."
+    },
+    "TbInfo": {
+        "energyConsumption": "Energy Consumption",
+        "energyGain": "Energy Gain",
+        "ids": "Identities",
+        "ego": "EGO"
+    },
+    "EGOsPage": {
+        "title": "List of EGO",
+        "header": "List of EGO"
+    },
+    "IdentitiesPage": {
+        "title": "List of Identities",
+        "header": "List of Identities"
+    },
+    "ListEgo": {
+        "empty": "No available EGO. Try disabling some filters.",
+        "header": "Found EGOs"
+    },
+    "ListIds": {
+        "empty": "No available Identities. Try disabling some filters.",
+        "header": "Found Identities"
+    },
+    "StatusesPage": {
+        "title": "List of Statuses",
+        "header": "List of Statuses"
+    },
+    "StatusesTable": {
+        "header": {
+            "sinner": "Statuses related to sinners",
+            "anomaly": "Statuses related to anomalies"
+        },
+        "status": "Status",
+        "name": "Name",
+        "description": "Description"
+    },
+    "AboutGamePage.title": "About the Game",
+    "AboutGameInfo": {
+        "officialLinks": "Official Links",
+        "header": "About the Game",
+        "text": {
+            "1": "is an indie horror role-playing video game for Microsoft Windows and mobile devices using iOS or Android, developed and published by South Korean studio",
+            "2": " It was released worldwide on February 26, 2023. The game is set in the same dystopian, hyper-capitalist world known only as 'The City', where all of Project Moon's other works take place, including Lobotomy Corporation, Library of Ruina, and a webcomic titled Leviathan, but takes place some time after the events of all those stories."
+        }
+    },
+    "ContactPage.title": "Contact",
+    "ContactInfo": {
+        "header": "Our Contacts:",
+        "copied": "Nickname copied",
+        "originalAuthor": "Original Document Author",
+        "creator": "Website Creator",
+        "workers.header": "Contributors to the Website:",
+        "questionnaire":"Full questionnaire on Great Limbus Library",
+        "workers1": {
+            "header": "Library Heads:",
+            "1": "Ritsy",
+            "2": "The Cyan Sunset as Carmen",
+            "3": "hgjrtu as the most sane tier list maker",
+            "4": "Kamikotosss"
+        },
+        "workers2": {
+            "header": "Book Hunters (Fixers):",
+            "1": "Klinch as a Average Grade 9 Fixer",
+            "2": "ManulGod",
+            "3": "Knightey as 앤젤라의 개 and personal Watson and NEET",
+            "4": "Sir Alonne as weakest PM minmaxer",
+            "5": "turbae_carissimus",
+            "6": "morj. as the hardest worker (real)",
+            "7": "Vicissitude as a gift",
+            "9": "Licht & Ruchi as Workers for one Day"
+        },
+        "workers3": {
+            "header": "Special Thanks:",
+            "1": "CHACHENWAGEN TV"
+        }
+    },
+    "DisclaimerBanner.1": " - is a fan site and database developed by the community dedicated to the game ",
+    "DisclaimerBanner.2": "This site is not an official resource of ",
+    "DisclaimerBanner.3": ", and all materials remain the property of their original owners.",
+    "DisclaimerBanner.confirm": "GOT IT",
+    "LoadingAnimation":{
+        "text":"Loading",
+        "delay":"We are experiencing high server load; the wait will take a little longer."
+    },
+    "ErrorInfo":{
+        "header":"Error",
+        "toMain":"Return to main page"
+    },
+    "ItemIdentityInfo":{
+        "battlePassive":"Battle passive",
+        "supportPassive":"Support passive"
+    },
+    "EntityFullInfoEGO":{
+        "statuses":"Statuses",
+        "res":"Resistances",
+        "cost":"Cost"
+    },
+    "EntityFullInfoSkillEGO": {
+        "baseValue": "Base Value",
+        "corrosion": "CORROSION",
+        "coinGain": "Base Coin Gain",
+        "guardType": "Guard Type",
+        "damageType": "Damage Type",
+        "sin": "Sin",
+        "sanity": "Sanity Cost",
+        "maxCoin": "Maximum Coin Value (Base)",
+        "coinCondition": "Maximum Coin Value considering Skill and Combat Passive conditions",
+        "weightBase": "Number of slots hit by the skill (Base)",
+        "weight": "Number of slots hit by the skill considering buffs"
+    },
+    "EntityFullInfoSkill": {
+        "skill": "Skill",
+        "defSkill": "Defensive Skill",
+        "count": "Count in rotation of 6 skills",
+        "baseValue": "Base Value",
+        "coinGain": "Base Coin Gain",
+        "guardType": "Guard Type",
+        "damageType": "Damage Type",
+        "sin": "Sin",
+        "maxCoin": "Maximum Coin Value (Base)",
+        "coinCondition": "Maximum Coin Value considering Skill and Combat Passive conditions",
+        "defenceLevel": "Defence Level",
+        "offenceLevel": "Offence Level",
+        "minPotencial": "Minimum Potential Damage of the skill (calculations by Sir Alonne)",
+        "maxPotencial": "Maximum Potential Damage of the skill (calculations by Sir Alonne)",
+        "weightBase": "Number of slots hit by the skill (Base)",
+        "weight": "Number of slots hit by the skill considering buffs"
+    },
+    "EntityFullInfoIdentity": {
+        "statuses": "Statuses",
+        "stagger": "Stagger Threshold",
+        "stats": "Stats",
+        "res": "Resistances"
+    },
+    "EntityFullInfoPassive":{
+        "res":" Res.",
+        "owned":" Owned"
+    },
+    "EntityFullInfoSkills":{
+        "battlePassive":"Battle passive",
+        "supportPassive":"Support passive",
+        "tab":{
+            "skills":"skills",
+            "passives":"passives",
+            "sanity":"sanity"
+        }
+    },
+    "SkillCoinDescription.clickToSeeDescription":"Click to see description",
+    "SEOHelmet.keywords": "GLL, GreatLimbusLibrary, Limbus, Wiki, Database, Great Limbus Library, Limbus Company, Gacha, Tier List, Faust, Don Quixote, Yi Sang, Ryoshu, Mersault, Hong Lu, HeathCliff, Ishmael, Rodion, Sinclair, Outis, Gregor",
+    "SEOHelmet.description": "Great Limbus Library is a fan site and community-driven database dedicated to the Limbus Company game. Guides, Identities, EGOs, News, Events, Tier Lists, and Team Builder.",
+    "SkillCoinDescription" : {
+        "[onhit]" : "[On Hit] ",
+        "[clashwin]" : "[Clash Win] ",
+        "[combatstart]" : "[Combat Start] ",
+        "[clashlose]" : "[Clash Lose] ",
+        "[onuse]" : "[On Use] ",
+        "[onkill]" : "[On Kill] ",
+        "[onevade]" : "[On Evade] ",
+        "[headshit]" : "[Heads Hit] ",
+        "[hitafterclashwin]" : "[Hit After Clash Win] ",
+        "[afterattack]" : "[After Attack] ",
+        "[beforeattack]" : "[Before Attack] ",
+        "[reuse-headshit]" : "[Reuse - Heads Hit] ",
+        "[tailshit]" : "[Tails Hit] ",
+        "[oncrit]" : "[On Crit] ",
+        "[indiscriminate]" : "[Indiscriminate] ",
+        "[headsattackend]" : "[Heads Attack End] ",
+        "[tailsattackend]" : "[Tails Attack End] ",
+        "[failedkill]" : "[Failed Kill] ",
+        "[critattackend]" : "[Crit Attack End] ",
+        "fc" : " Final Power",
+        "bc" : " Base Power",
+        "cg" : " Coin Power",
+        "cp" : " Clash Power",
+        "weigth": " Attack Weight",
+        "max": "Max."
+    } ,
+    "sinners":{
+        "new":"NEW",
+        "yisang":"Yi Sang",
+        "faust":"Faust",
+        "donquixote":"Don Quixote",
+        "ryoshu":"Ryoshu",
+        "mersault":"Mersault",
+        "honglu":"Hong Lu",
+        "heathcliff":"Hethcliff",
+        "ishmael":"Ishmael",
+        "rodion":"Rodion",
+        "sinclair":"Sinclair",
+        "outis":"Outis",
+        "gregor":"Gregor"
+    },
+    "MainLayoutContainer.ErrorBoundary.ErrorInfo": "This page has an error. Please contact us so we can fix it. :)",
+    "FiltersSection2":{
+        "show":"Show all",
+        "hide":"Hide"
+    },
+    "EntityFullInfoSanity":{
+        "PanicEffects":"Panic Effects",
+        "FactorsIncreasingSanity":"Factors Increasing Sanity",
+        "FactorsDecreasingSanity":"Factors Decreasing Sanity"
+    },
+    "TierListDisclaimer":{
+        "header":"Disclaimer"
+    },
+    "FiltersSection":{
+        "O":"0",
+        "OO":"00",
+        "OOO":"000",
+        "yi sang":"Yi Sang",
+        "faust":"Faust",
+        "don quixote":"Don Quixote",
+        "ryoshu":"Ryoshu",
+        "mersault":"Mersault",
+        "hong lu":"Hong Lu",
+        "heathcliff":"Hethcliff",
+        "ishmael":"Ishmael",
+        "rodion":"Rodion",
+        "sinclair":"Sinclair",
+        "outis":"Outis",
+        "gregor":"Gregor",
+        "blunt":"Blunt",
+        "slash":"Slash",
+        "pierce":"Pierce",
+        "evade":"Evade",
+        "counter":"Counter",
+        "guard":"Guard",
+        "wrath":"Wrath",
+        "glut":"Glut",
+        "lust":"Lust",
+        "sloth":"Sloth",
+        "gloom":"Gloom",
+        "pride":"Pride",
+        "envy":"Envy"
+
+    }
+}

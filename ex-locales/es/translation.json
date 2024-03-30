@@ -1,0 +1,288 @@
+{
+    "MainInfo": {
+        "headerTitle": "Great Limbus Library es un sitio fan y base de datos",
+        "headerDescription": "desarrollado por la comunidad, dedicado a la Compañía Limbus."
+    },
+    "EntitySection": {
+        "new": "Identidades y EGOs Recientemente Publicados"
+    },
+    "NavigationSection": {
+        "header": "Navegación rápida del sitio",
+        "teambuilder": "Construcción de equipos",
+        "identities": "Lista de identidades con filtros",
+        "ego": "Lista de EGOs con filtros",
+        "statuses": "Información sobre buffs, debuffs y otros estados",
+        "tierlist": "Listas de niveles de Identidades, EGOs y Pasivas"
+    },
+    "EventsSection": {
+        "header": "Eventos activos",
+        "eventStarts": "El evento comienza en: ",
+        "eventEnds": "El evento termina en: ",
+        "eventEnded": "Evento recientemente finalizado",
+        "d": "d",
+        "m": "m",
+        "s": "s",
+        "h": "h"
+    },
+    "OfficialLinksSection": {
+        "header": "Enlaces Oficiales"
+    },
+    "ToDoSection": {
+        "1": "Añadir guías",
+        "2": "Mejorar la funcionalidad del constructor de equipos",
+        "3": "Mejoras generales en la interfaz y contenido del sitio",
+        "header": "Planes de Mejora del Sitio",
+        "contactUs": "Si tienes ideas o sugerencias, contáctanos, por favor"
+    },
+    "LeftMenu": {
+        "tierlist": "LISTA DE NIVELES",
+        "teambuilder": "CONSTRUCTOR DE EQUIPOS",
+        "identities": "IDENTIDADES",
+        "ego": "EGO",
+        "statuses": "ESTADOS",
+        "aboutgame": "SOBRE EL JUEGO",
+        "contact": "NUESTROS CONTACTOS"
+    },
+    "TierListPage": {
+        "title": "Lista de Niveles",
+        "header": "Lista de Niveles",
+        "description": "Solo importa el nivel de Identidades/EGO. Dentro de los niveles, la posición de Identidades/EGO NO es un ranking de fortaleza."
+    },
+    "TierListNav": {
+        "ego": "EGO",
+        "identities": "Identidades",
+        "passives": "Pasivas"
+    },
+    "TierList": {
+        "name": {
+            "identities": "Identidades",
+            "ego": "EGO",
+            "battlePassives": "Pasivas de batalla",
+            "supportPassives": "Pasivas de soporte"
+        },
+        "description": {
+            "SSS": "Estas Identidades/EGOs son capaces de superar sin esfuerzo cualquier contenido del juego.",
+            "SS": "Identidades/EGOs muy poderosos que se quedan justo por debajo de entrar en la categoría SSS.",
+            "S": "Identidades/EGOs fuertes que manejan con éxito contenido diverso pero pueden ser reemplazados por representantes aún más poderosos del nivel SS.",
+            "A": "Identidades/EGOs promedio con algunas fortalezas pero también con debilidades.",
+            "B": "Identidades/EGOs comparativamente débiles que deberían ser elegidos solo en casos de extrema necesidad.",
+            "C": "Identidades/EGOs ineficaces; es mejor evitar elegirlos ya que son incapaces de cumplir con éxito las tareas del juego."
+        }
+    },
+    "Filters": {
+        "header": "Filtros",
+        "clearFilters": "Limpiar filtros",
+        "showFilters": "Mostrar filtros",
+        "empty": "La lista está vacía, pero puedes solucionarlo limpiando algunos de los filtros"
+    },
+    "TierBar": {
+        "tier": "nivel"
+    },
+    "FiltersList": {
+        "header": {
+            "dmgType": "Tipo de daño",
+            "guardType": "Tipo de guardia",
+            "rarity": "Rareza",
+            "dangerLvl": "Nivel de peligro",
+            "sin": "Pecado",
+            "sinner": "Pecador",
+            "statusType": "Tipo de estado"
+        }
+    },
+    "Search": {
+        "placeholder": "Filtrar por nombre..."
+    },
+    "TeamBuilderPage": {
+        "title": "Constructor de equipos",
+        "header": "Constructor de equipos"
+    },
+    "TbSins.header": "Energía",
+    "TbTags": {
+        "header": "Estados",
+        "empty": "La lista de estados está vacía, añade Identidades o EGO a cualquier ranura"
+    },
+    "TbSlots": {
+        "reset": "Restablecer",
+        "slotsCount": "Número de ranuras"
+    },
+    "TbListIds": {
+        "header": "Lista de Identidades",
+        "empty": "No hay Identidades disponibles. Intenta desactivar algunos filtros."
+    },
+    "TbListEGO": {
+        "header": "Lista de EGO",
+        "empty": "No hay EGO disponibles. Intenta desactivar algunos filtros."
+    },
+    "TbInfo": {
+        "energyConsumption": "Consumo de energía",
+        "energyGain": "Ganancia de energía",
+        "ids": "Identidades",
+        "ego": "EGO"
+    },
+    "EGOsPage": {
+        "title": "Lista de EGO",
+        "header": "Lista de EGO"
+    },
+    "IdentitiesPage": {
+        "title": "Lista de Identidades",
+        "header": "Lista de Identidades"
+    },
+    "ListEgo": {
+        "empty": "No hay EGO disponibles. Intenta desactivar algunos filtros.",
+        "header": "EGOs Encontrados"
+    },
+    "ListIds": {
+        "empty": "No hay Identidades disponibles. Intenta desactivar algunos filtros.",
+        "header": "Identidades Encontradas"
+    },
+    "StatusesPage": {
+        "title": "Lista de Estados",
+        "header": "Lista de Estados"
+    },
+    "StatusesTable": {
+        "header": {
+            "sinner": "Estados relacionados con pecadores",
+            "anomaly": "Estados relacionados con anomalías"
+        },
+        "status": "Estado",
+        "name": "Nombre",
+        "description": "Descripción"
+    },
+    "AboutGamePage.title": "Sobre el Juego",
+    "AboutGameInfo": {
+        "officialLinks": "Enlaces Oficiales",
+        "header": "Sobre el Juego",
+        "text": {
+            "1": "es un videojuego independiente de rol y horror para Microsoft Windows y dispositivos móviles con iOS o Android, desarrollado y publicado por el estudio surcoreano",
+            "2": ". Fue lanzado en todo el mundo el 26 de febrero de 2023. El juego está ambientado en el mismo mundo distópico y hipercapitalista conocido solo como 'The City', donde tienen lugar todas las demás obras de Project Moon, incluyendo Lobotomy Corporation, Library of Ruina y un cómic web titulado Leviathan, pero ocurre algún tiempo después de los eventos de todas esas historias."
+        }
+    },
+    "ContactPage.title": "Contacto",
+    "ContactInfo": {
+        "header": "Nuestros Contactos:",
+        "copied": "Nombre de usuario copiado",
+        "originalAuthor": "Autor Original del Documento",
+        "creator": "Creador del Sitio Web",
+        "workers.header": "Contribuyentes al Sitio Web:",
+        "workers1": {
+            "header": "Jefes de la Biblioteca:",
+            "1": "Ritsu",
+            "2": "GodMod",
+            "3": "Kamikotosss"
+        },
+        "workers2": {
+            "header": "Cazadores de Libros (Editores):",
+            "1": "ManulGod",
+            "2": "hgjrtu",
+            "3": "Sir Alonne",
+            "4": "turbae_carissimus",
+            "5": "morj.",
+            "6": "Licht & Ruchi como Trabajadores por un Día"
+        },
+        "workers3": {
+            "header": "Agradecimientos Especiales:",
+            "1": "CHACHENWAGEN TV"
+        }
+    },
+    "DisclaimerBanner.1": " - es un sitio fan y base de datos desarrollado por la comunidad dedicado al juego ",
+"DisclaimerBanner.2": "Este sitio no es un recurso oficial de ",
+"DisclaimerBanner.3": ", y todos los materiales siguen siendo propiedad de sus propietarios originales.",
+"DisclaimerBanner.confirm": "ENTENDIDO",
+"LoadingAnimation": {
+    "text": "Cargando",
+    "delay": "Estamos experimentando una carga elevada en el servidor; la espera tomará un poco más de tiempo."
+},
+"ErrorInfo": {
+    "header": "Error",
+    "toMain": "Volver a la página principal"
+},
+"ItemIdentityInfo": {
+    "battlePassive": "Pasiva de batalla",
+    "supportPassive": "Pasiva de soporte"
+},
+"EntityFullInfoEGO": {
+    "statuses": "Estados",
+    "res": "Resistencias",
+    "cost": "Costo"
+},
+"EntityFullInfoSkillEGO": {
+    "baseValue": "Valor base",
+    "corrosion": "CORROSIÓN",
+    "coinGain": "Ganancia de monedas base",
+    "guardType": "Tipo de guardia",
+    "damageType": "Tipo de daño",
+    "sin": "Pecado",
+    "sanity": "Costo de cordura",
+    "maxCoin": "Valor máximo de monedas (Base)",
+    "coinCondition": "Valor máximo de monedas considerando las condiciones de la habilidad y pasiva de combate",
+    "weightBase": "Número de ranuras afectadas por la habilidad (Base)",
+    "weight": "Número de ranuras afectadas por la habilidad considerando los buffs"
+},
+"EntityFullInfoSkill": {
+    "skill": "Habilidad",
+    "defSkill": "Habilidad defensiva",
+    "count": "Conteo en rotación de 6 habilidades",
+    "baseValue": "Valor base",
+    "coinGain": "Ganancia de monedas base",
+    "guardType": "Tipo de guardia",
+    "damageType": "Tipo de daño",
+    "sin": "Pecado",
+    "maxCoin": "Valor máximo de monedas (Base)",
+    "coinCondition": "Valor máximo de monedas considerando las condiciones de la habilidad y pasiva de combate",
+    "defenceLevel": "Nivel de defensa",
+    "offenceLevel": "Nivel de ataque",
+    "minPotencial": "Daño potencial mínimo de la habilidad (cálculos de Sir Alonne)",
+    "maxPotencial": "Daño potencial máximo de la habilidad (cálculos de Sir Alonne)",
+    "weightBase": "Número de ranuras afectadas por la habilidad (Base)",
+    "weight": "Número de ranuras afectadas por la habilidad considerando los buffs"
+},
+"EntityFullInfoIdentity": {
+    "statuses": "Estados",
+    "stagger": "Umbral de aturdimiento",
+    "stats": "Estadísticas",
+    "res": "Resistencias"
+},
+"EntityFullInfoPassive": {
+    "res": " Res.",
+    "owned": " Adquirida"
+},
+"EntityFullInfoSkills": {
+    "battlePassive": "Pasiva de batalla",
+    "supportPassive": "Pasiva de soporte"
+},
+
+"LanguageDisclaimer.tooltip": "Esta traducción fue creada automáticamente utilizando la tecnología de traducción automática. Hacemos esfuerzos para garantizar la precisión y calidad de la traducción, sin embargo, no podemos garantizar la ausencia completa de errores. No nos hacemos responsables de cualquier malentendido, omisión o inexactitud en el texto traducido. Si tiene observaciones o ha notado algún error, por favor, infórmenos para que podamos realizar las correcciones correspondientes. Agradecemos su comprensión.",
+"SkillCoinDescription.clickToSeeDescription":"Haga clic para ver la descripción",
+"SEOHelmet.keywords": "GLL, GreatLimbusLibrary, Limbus, Wiki, Base de datos, Gran Biblioteca Limbus, Compañía Limbus, Gacha, Lista de niveles, Fausto, Don Quijote, Yi Sang, Ryoshu, Mersault, Hong Lu, HeathCliff, Ismael, Rodion, Sinclair, Outis, Gregor,Limbus Company, Personajes, Guías, Eventos, Noticias, Sitio de fans, EGO, Personalidades, Pecados, Últimos, Pasivas, Estados, Constructor de equipos, Comparación, Equipo, Escuadrón, Eventos",
+"SEOHelmet.description": "Great Limbus Library es un sitio de fans y una base de datos impulsada por la comunidad dedicada al juego Limbus Company. Guías, Identidades, EGOs, Noticias, Eventos, Listas de Niveles y Constructor de Equipos.",
+"SkillCoinDescription": {
+    "[onhit]": "[Al impacto] ",
+    "[clashwin]": "[Victoria en choque] ",
+    "[combatstart]": "[Inicio de combate] ",
+    "[clashlose]": "[Derrota en choque] ",
+    "[onuse]": "[Al usar] ",
+    "[onkill]": "[Al matar] ",
+    "[onevade]": "[Al evadir] ",
+    "[headshit]": "[Impacto en la cabeza] ",
+    "[hitafterclashwin]": "[Impacto después de la victoria en choque] ",
+    "[afterattack]": "[Después del ataque] ",
+    "[beforeattack]": "[Antes del ataque] ",
+    "[reuse-headshit]": "[Reutilizar - Impacto en la cabeza] ",
+    "[tailshit]": "[Impacto en la cola] ",
+    "[oncrit]": "[En crítico] ",
+    "[indiscriminate]": "[Indiscriminado] ",
+    "[headsattackend]": "[Fin del ataque a la cabeza] ",
+    "[tailsattackend]": "[Fin del ataque a la cola] ",
+    "[failedkill]": "[Muerte fallida] ",
+    "[critattackend]": "[Fin del ataque crítico] ",
+    "fc": " Poder final",
+    "bc": " Poder base",
+    "cg": " Poder de la moneda",
+    "cp": " Poder de choque",
+    "weight": " Peso del ataque"
+}
+
+
+    
+    
+}
