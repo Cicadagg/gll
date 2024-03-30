@@ -179,21 +179,24 @@
             "header": "Library Heads:",
             "1": "Ritsy",
             "2": "The Cyan Sunset as Carmen",
-            "3": "hgjrtu as the most sane tier list maker",
-            "4": "Kamikotosss"
+            "3": "hgjrtu as the most sane tier list maker"
         },
         "workers2": {
-            "header": "Book Hunters (Fixers):",
+            "header": "Book Hunters:",
             "1": "Klinch as a Average Grade 9 Fixer",
-            "2": "ManulGod",
-            "3": "Knightey as 앤젤라의 개 and personal Watson and NEET",
-            "4": "Sir Alonne as weakest PM minmaxer",
-            "5": "turbae_carissimus",
-            "6": "morj. as the hardest worker (real)",
-            "7": "Vicissitude as a gift",
-            "9": "Licht & Ruchi as Workers for one Day"
+            "2": "Knightey as 앤젤라의 개 and personal Watson and NEET",
+            "3": "Sir Alonne as weakest PM minmaxer",
+            "4": "turbae_carissimus",
+            "5": "morj. as the hardest worker (real)"
         },
         "workers3": {
+        "header": "Lost Books:",
+        "1": "Kamikotosss",
+        "2": "ManulGod",
+        "3": "Vicissitude as a gift",
+        "4": "Licht & Ruchi as Workers for one Day"
+        },
+        "workers4": {
             "header": "Special Thanks:",
             "1": "CHACHENWAGEN TV"
         }
