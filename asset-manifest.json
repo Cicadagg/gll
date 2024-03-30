@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/gll/static/css/main.cddd956f.css",
-    "main.js": "/gll/static/js/main.60c0e264.js",
-    "static/media/limbus.webp": "/gll/static/media/limbus.3ae3eb448c75b59fd518.webp",
-    "static/media/AlumniSans-SemiBold.ttf": "/gll/static/media/AlumniSans-SemiBold.c431bd670b00b03d53e1.ttf",
-    "static/media/AlumniSans-Bold.ttf": "/gll/static/media/AlumniSans-Bold.9987a2e1fa36bf2088f2.ttf",
-    "static/media/AlumniSans-Medium.ttf": "/gll/static/media/AlumniSans-Medium.e7604b325cfb6339c34e.ttf",
-    "index.html": "/gll/index.html",
-    "static/media/getFetch.cjs": "/gll/static/media/getFetch.40f37ddea2378391108f.cjs",
-    "main.cddd956f.css.map": "/gll/static/css/main.cddd956f.css.map",
-    "main.60c0e264.js.map": "/gll/static/js/main.60c0e264.js.map"
+    "main.css": "/static/css/main.fb594222.css",
+    "main.js": "/static/js/main.91003812.js",
+    "static/media/limbus.webp": "/static/media/limbus.3ae3eb448c75b59fd518.webp",
+    "static/media/AlumniSans-SemiBold.ttf": "/static/media/AlumniSans-SemiBold.c431bd670b00b03d53e1.ttf",
+    "static/media/AlumniSans-Bold.ttf": "/static/media/AlumniSans-Bold.9987a2e1fa36bf2088f2.ttf",
+    "static/media/AlumniSans-Medium.ttf": "/static/media/AlumniSans-Medium.e7604b325cfb6339c34e.ttf",
+    "index.html": "/index.html",
+    "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.fb594222.css.map": "/static/css/main.fb594222.css.map",
+    "main.91003812.js.map": "/static/js/main.91003812.js.map"
   },
   "entrypoints": [
-    "static/css/main.cddd956f.css",
-    "static/js/main.60c0e264.js"
+    "static/css/main.fb594222.css",
+    "static/js/main.91003812.js"
   ]
 }
