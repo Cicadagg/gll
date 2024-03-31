@@ -204,8 +204,8 @@
     },
     "GraditudePage.title":"Поддержка",
     "GraditudeInfo":{
+        "header":"Аукцион Безымянного пальца",
         "copied":"Никнейм скопирован",
-        "patrons.header":"Аукцион Безымянного пальца",
         "patrons1":{
             "header":"Наши Меценаты"
         }
