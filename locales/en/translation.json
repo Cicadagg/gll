@@ -201,6 +201,15 @@
             "1": "CHACHENWAGEN TV"
         }
     },
+    "GraditudePage.title":"Graditudes",
+    "GraditudeInfo":{
+        "header":"Words of graditude",
+        "copied":"Nickname copied",
+        "patrons.header":"An auction of the Ring",
+        "patrons1":{
+            "header":"Our patrons"
+        }
+    },
     "DisclaimerBanner.1": " - is a fan site and database developed by the community dedicated to the game ",
     "DisclaimerBanner.2": "This site is not an official resource of ",
     "DisclaimerBanner.3": ", and all materials remain the property of their original owners.",
