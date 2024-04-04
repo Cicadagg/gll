@@ -282,7 +282,7 @@
         }
     },
     "SkillCoinDescription.clickToSeeDescription":"Click to see description",
-    "SEOHelmet.keywords": "GLL, GreatLimbusLibrary, Limbus, Wiki, Database, Great Limbus Library, Limbus Company, Gacha, Tier List, Faust, Don Quixote, Yi Sang, Ryoshu, Mersault, Hong Lu, Heathcliff, Ishmael, Rodion, Sinclair, Outis, Gregor",
+    "SEOHelmet.keywords": "GLL, GreatLimbusLibrary, Limbus, Wiki, Database, Great Limbus Library, Limbus Company, Gacha, Tier List, Лимбус, Тир лист, Faust, Don Quixote, Yi Sang, Ryoshu, Mersault, Hong Lu, HeathClif, Ishmael, Rodion, Sinclair, Outis, Gregor, Тирлист, Гача, Лимбус Компани, Персонажи, Гайды, Ивенты, Новости, Фансайт, ЭГО, Индентичности, Грешинки, Ультимейты, Пассивки, Статусы, Тимбилдер, Сравнение, Команда, Отряд, Ивенты, ГЛЛ, Фауст, Сайт по Лимбус, Лимбус Сайт, Сайт лимбус компани, Сайт Limbus, Сайт по Limbus, Сайт Limbus Company, Сайт, Вики, Вики Limbus Company, Вики Limbus, Википедия, лимбус компани, тир лист лимбус компани, лимбус, лимбус компани тир лист, лимбус компани русификатор, лимбус компани вики, русификатор лимбус компани, лимбус компани персонажи, лимбус компани тирлист, тир лист лимбус, дон кихот лимбус, лимбус тир лист, грехи лимбус компани, лимбус библиотека",
     "SEOHelmet.description": "Great Limbus Library is a fan site and community-driven database dedicated to the Limbus Company game. Guides, Identities, EGOs, News, Events, Tier Lists, and Team Builder.",
     "SkillCoinDescription" : {
         "[onhit]" : "[On Hit] ",
