@@ -107,7 +107,7 @@
         "title":"Team Builder",
         "header":"Team Builder"
     },
-    "TbSins.header": "Energy",
+    "TbSins.header": "Sins",
     "TbTags": {
         "header": "Statuses",
         "empty": "The list of statuses is empty, add Identity or EGO to any slot"
@@ -125,8 +125,8 @@
         "empty": "No available EGO. Try disabling some filters."
     },
     "TbInfo": {
-        "energyConsumption": "Energy Consumption",
-        "energyGain": "Energy Gain",
+        "energyConsumption": "Sins Consumption",
+        "energyGain": "Sins Gain",
         "ids": "Identities",
         "ego": "EGO"
     },
@@ -282,7 +282,7 @@
         }
     },
     "SkillCoinDescription.clickToSeeDescription":"Click to see description",
-    "SEOHelmet.keywords": "GLL, GreatLimbusLibrary, Limbus, Wiki, Database, Great Limbus Library, Limbus Company, Gacha, Tier List, Faust, Don Quixote, Yi Sang, Ryoshu, Mersault, Hong Lu, HeathCliff, Ishmael, Rodion, Sinclair, Outis, Gregor",
+    "SEOHelmet.keywords": "GLL, GreatLimbusLibrary, Limbus, Wiki, Database, Great Limbus Library, Limbus Company, Gacha, Tier List, Faust, Don Quixote, Yi Sang, Ryoshu, Mersault, Hong Lu, Heathcliff, Ishmael, Rodion, Sinclair, Outis, Gregor",
     "SEOHelmet.description": "Great Limbus Library is a fan site and community-driven database dedicated to the Limbus Company game. Guides, Identities, EGOs, News, Events, Tier Lists, and Team Builder.",
     "SkillCoinDescription" : {
         "[onhit]" : "[On Hit] ",
