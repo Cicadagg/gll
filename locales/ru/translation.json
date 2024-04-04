@@ -106,10 +106,10 @@
         "title":"Тим Билдер",
         "header":"Тим Билдер"
     },
-    "TbSins.header":"Энергия",
+    "TbSins.header":"Грехи",
     "TbTags":{
         "header":"Статусы",
-        "empty":"Список статусов пуст , добавьте Индентичность или ЭГО в любой слот"
+        "empty":"Список статусов пуст, добавьте Индентичность или ЭГО в любой слот"
     },
     "TbSlots":{
         "reset":"Сбросить",
@@ -124,8 +124,8 @@
         "empty":"Нет доступных ЭГО. Попробуйте отключить некоторые из фильтров."
     },
     "TbInfo":{
-        "energyConsumption":"Трата энергии",
-        "energyGain":"Получение энергии",
+        "energyConsumption":"Трата Грехов",
+        "energyGain":"Получение Грехов",
         "ids":"Индентичности",
         "ego":"ЭГО"
     },
@@ -283,7 +283,7 @@
     },
     "LanguageDisclaimer.tooltip":"Этот перевод был создан автоматически с использованием технологии машинного перевода. Мы прилагаем усилия для обеспечения точности и качества перевода, однако мы не можем гарантировать полное отсутствие ошибок. Мы не несем ответственности за любые недоразумения, упущения или некорректности в переведенном тексте. Если у вас есть замечания или вы заметили ошибку, пожалуйста, сообщите нам об этом, чтобы мы могли внести соответствующие коррективы. Мы благодарим за ваше понимание.",
     "SkillCoinDescription.clickToSeeDescription":"Нажмите чтобы увидеть описание",
-    "SEOHelmet.keywords":"GLL, GreatLimbusLibrary, Limbus, Wiki, Database, Great Limbus Library , Limbus Company , Gacha , Tier List, Лимбус , Тир лист ,Faust,Don Quixote,Yi Sang,Ryoshu,Mersault,Hong Lu , HeathCliff, Ishmael, Rodion , Sinclair, Outis ,Gregor, Тирлист, Гача, Лимбус Компани, Персонажи, Гайды, Ивенты, Новости, Фансайт, ЭГО, Индентичности , Грешинки, Ультимейты, Пассивки,Статусы, Тимбилдер, Сравнение, Команда, Отряд,Ивенты",
+    "SEOHelmet.keywords":"GLL, GreatLimbusLibrary, Limbus, Wiki, Database, Great Limbus Library, Limbus Company, Gacha, Tier List, Лимбус, Тир лист, Faust, Don Quixote, Yi Sang, Ryoshu, Mersault, Hong Lu, HeathClif, Ishmael, Rodion, Sinclair, Outis, Gregor, Тирлист, Гача, Лимбус Компани, Персонажи, Гайды, Ивенты, Новости, Фансайт, ЭГО, Индентичности, Грешинки, Ультимейты, Пассивки, Статусы, Тимбилдер, Сравнение, Команда, Отряд, Ивенты, ГЛЛ, Фауст, Сайт по Лимбус, Лимбус Сайт, Сайт лимбус компани, Сайт Limbus, Сайт по Limbus, Сайт Limbus Company, Сайт, Вики, Вики Limbus Company, Вики Limbus, Википедия",
     "SEOHelmet.description":"Great Limbus Library - это фан-сайт и база данных, разработанные сообществом, посвященные игре Limbus Company. Гайды, Индентичности, ЭГО, Новости, Ивенты, Тирлисты и Тимбилдер",
     "SkillCoinDescription" : {
         "[onhit]" : "[При Попадании] ",
