@@ -4,7 +4,7 @@
         "headerDescription":"разработанные сообществом, посвященные игре Limbus Company."
     },
     "EntitySection": {
-        "new" : "Недавно вышедшие Индентичности и ЭГО"
+        "new" : "Недавно вышедшие Идентичности и ЭГО"
     },
     "NavigationSection":{
         "header":"Быстрая навигация по сайту",
@@ -40,7 +40,7 @@
         "graditude":"ПОДДЕРЖКА САЙТА",
         "tierlist":"ТИР ЛИСТ",
         "teambuilder":"ТИМ БИЛДЕР",
-        "identities":"ИНДЕНТИЧНОСТИ",
+        "identities":"ИДЕНТИЧНОСТИ",
         "ego":"ЭГО",
         "statuses":"СТАТУСЫ",
         "aboutgame":"ОБ ИГРЕ",
@@ -53,11 +53,11 @@
     },
     "TierListNav":{
         "ego":"ЭГО",
-        "identities":"Индентичности"
+        "identities":"Идентичности"
     },
     "TierList":{
         "name":{
-            "identities":"Индентичности",
+            "identities":"Идентичности",
             "ego":"ЭГО"
         },
         "description":{
@@ -126,7 +126,7 @@
     "TbInfo":{
         "energyConsumption":"Трата Грехов",
         "energyGain":"Получение Грехов",
-        "ids":"Индентичности",
+        "ids":"Идентичности",
         "ego":"ЭГО"
     },
     "EGOsPage":{
