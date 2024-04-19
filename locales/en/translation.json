@@ -304,6 +304,7 @@
         "[tailsattackend]" : "[Tails Attack End] ",
         "[failedkill]" : "[Failed Kill] ",
         "[critattackend]" : "[Crit Attack End] ",
+        "[turnend]" : "[Turn End] ",
         "fc" : " Final Power",
         "bc" : " Base Power",
         "cg" : " Coin Power",
