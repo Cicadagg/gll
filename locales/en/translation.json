@@ -206,17 +206,17 @@
     "GraditudeInfo":{
         "text-donation":{
             "header":"Support Information",
-            "text1":"Our project needs Your support to expand its functionality. The Boosty sets a goal, for which fundraising is ongoing right now.",
-            "text2":"The Boosty platform is available for donations. This platform is widely used in our country and is not particularly widespread abroad. If you are not familiar with it, we hasten to reassure you, registration on it is possible using a Google account.",
+            "text1":"Our project needs Your support to expand its functionality.",
+            "text2":"The Boosty platform is available for donations. This platform is widely used in our country and is not particularly widespread abroad. If you are not familiar with it, we hasten to reassure you, registration on it is possible using a Google account. The Boosty sets a goal, for which fundraising is ongoing right now.",
             "text3":"Maecenas are people who supported our project during its most difficult time, when it most needed outside help.",
             "links.header": "Link for Support"
         },
         "donator.header":"An Auction of the Ring",
         "patrons1":{
-            "header":"Our Maecenas:"
+            "header":"Our Maecenas"
         },
         "patrons2":{
-            "header":"Our Patrons:"
+            "header":"Our Patrons"
         }
     },
     "DisclaimerBanner.1": " - is a fan site and database developed by the community dedicated to the game ",
