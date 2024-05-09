@@ -178,17 +178,30 @@
         "questionnaire":"Full questionnaire on Great Limbus Library",
         "workers1": {
             "header": "Library Heads:",
-            "1": "Ritsy",
-            "2": "The Cyan Sunset as Carmen",
-            "3": "hgjrtu as the most sane tier list maker"
+            "1": "Ritsy"
         },
         "workers2": {
-            "header": "Book Hunters:",
-            "1": "Klinch as a Average Grade 9 Fixer",
-            "2": "Knightey as 앤젤라의 개 and personal Watson and NEET",
-            "3": "Sir Alonne as weakest PM minmaxer",
-            "4": "turbae_carissimus",
-            "5": "morj. as the hardest worker (real)"
+            "header": "Patron Librarians:",
+            "patron1":"[Floor of General Works]",
+            "patron2":"[Floor of History]",
+            "patron3":"[Floor of Technological Sciences]",
+            "patron4":"[Floor of Literature]",
+            "patron5":"[Floor of Art]",
+            "patron6":"[Floor of Natural Sciences]",
+            "patron7":"[Floor of Language]",
+            "patron8":"[Floor of Social Sciences]",
+            "patron9":"[Floor of Philosophy]",
+            "patron10":"[Floor of Religion]",
+            "1":"Klinch as a Average Grade 9 Fixer",
+            "2":"Unawakened",
+            "3":"Sir Alonne в роли слабейшего ПМ минмаксера",
+            "4":"Unawakened",
+            "5":"morj. as the hardest worker (real)",
+            "6":"turbae_carissimus",
+            "7":"Knightey as 앤젤라의 개 and personal Watson and NEET",
+            "8":"The Cyan Sunset as Carmen",
+            "9":"hgjrtu as the most sane tier list maker",
+            "10":"Unawakened"
         },
         "workers3": {
         "header": "Lost Books:",
