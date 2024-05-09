@@ -1,7 +1,12 @@
 {
     "MainInfo": {
         "headerTitle":" Great Limbus Library: это фан-сайт и база данных,",
-        "headerDescription":"разработанные сообществом, посвященные игре Limbus Company."
+        "headerDescription":"разработанные сообществом, посвященные игре Limbus Company.",
+        "headerDescription2":"Если Вы хотите следить за новостями об обновлении сайта,",
+        "headerDescription3":"можете перейти в раздел ",
+        "headerDescription4":"ПОДДЕРЖКА САЙТА",
+        "headerDescription5":" и перейти оттуда на Boosty,",
+        "headerDescription6":"там в бесплатном доступе публикуются последние новости."
     },
     "EntitySection": {
         "new" : "Недавно вышедшие Идентичности и ЭГО"

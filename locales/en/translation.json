@@ -1,7 +1,12 @@
 {
     "MainInfo": {
         "headerTitle":"Great Limbus Library is a fan site and database",
-        "headerDescription":"developed by the community, dedicated to Limbus Company."
+        "headerDescription":"developed by the community, dedicated to Limbus Company.",
+        "headerDescription2":"If You want to keep up with the news about site updates,",
+        "headerDescription3":"You can go to the ",
+        "headerDescription4":"SITE SUPPORT",
+        "headerDescription5":" section and go from there to Boosty,",
+        "headerDescription6":"the latest news is published there for free."
     },
     "EntitySection": {
         "new" : "Recently Released Identities and EGOs"
