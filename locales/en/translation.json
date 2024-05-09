@@ -39,7 +39,9 @@
         "2":"Improving team builder functionality",
         "3":"General improvements to the site's interface and content",
         "header":"Site Improvement Plans",
-        "contactUs":"If you have ideas or suggestions, please contact us"
+        "contactUs":"If you have ideas or suggestions, please go to ",
+        "contactUs2":"OUR CONTACTS",
+        "contactUs3":" and fill out the 'Full questionnaire on Great Limbus Library'."
     },
     "LeftMenu":{
         "graditude":"SITE SUPPORT",
