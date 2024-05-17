@@ -363,8 +363,8 @@
     },
     "EntityFullInfoSanity":{
         "PanicEffects":"Panic Effects",
-        "FactorsIncreasingSanity":"Factors Increasing Sanity",
-        "FactorsDecreasingSanity":"Factors Decreasing Sanity"
+        "FactorsIncreasingSanity":"Base Factors Increasing Sanity",
+        "FactorsDecreasingSanity":"Base Factors Decreasing Sanity"
     },
     "TierListDisclaimer":{
         "header":"Disclaimer"

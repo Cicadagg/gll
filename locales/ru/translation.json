@@ -365,8 +365,8 @@
     },
     "EntityFullInfoSanity":{
         "PanicEffects":"Эффекты Паники",
-        "FactorsIncreasingSanity":"Факторы, увеличивающие Рассудок (SP)",
-        "FactorsDecreasingSanity":"Факторы, понижающие Рассудок (SP)"
+        "FactorsIncreasingSanity":"Базовые Факторы, увеличивающие Рассудок (SP)",
+        "FactorsDecreasingSanity":"Базовые Факторы, понижающие Рассудок (SP)"
     },
     "TierListDisclaimer":{
         "header":"Дисклеймер"
