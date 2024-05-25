@@ -39,8 +39,8 @@
         "2":"Улучшение функционала тим билдера",
         "3":"Общие улучшения интерфейса и содержимого сайта",
         "header":"Планы по улучшению сайта",
-        "contactUs":"Если у вас есть идеи или предложения перейдите в ",
-        "contactUs2":"НАШИ КОНТАКТЫ",
+        "contactUs":"Если у вас есть идеи или предложения нажмите на раздел ",
+        "contactUs2":"ОПРОСНИК",
         "contactUs3":" и заполните 'Полный опросник по Great Limbus Library'."
     },
     "LeftMenu":{
@@ -51,7 +51,9 @@
         "ego":"ЭГО",
         "statuses":"СТАТУСЫ",
         "aboutgame":"ОБ ИГРЕ",
-        "contact":"НАШИ КОНТАКТЫ"
+        "contact":"НАШИ КОНТАКТЫ",
+        "mirror_dungeon":"MIRROR DUNGEON",
+        "feedback":"ОПРОСНИК"
     },
     "TierListPage":{
         "title":"Тир Лист",
@@ -284,7 +286,7 @@
         "damageType":"Тип урона",
         "sin":"Грех",
         "maxCoin":"Максимальное значение монет (базовое)",
-        "coinCondition":"Максимальное значение монет c учетом условий навыка и боевой пассивки",
+        "coinCondition":"Максимальное значение монет c учетом условий навыка и боевой пассивки (При Столкновении)",
         "defenceLevel":"Уровень защиты",
         "offenceLevel":"Уровень атаки",
         "minPotencial":"Минимальный потенциал урона навыка (вычисления сделал Sir Alonne)",
@@ -365,8 +367,8 @@
     },
     "EntityFullInfoSanity":{
         "PanicEffects":"Эффекты Паники",
-        "FactorsIncreasingSanity":"Базовые Факторы, увеличивающие Рассудок (SP)",
-        "FactorsDecreasingSanity":"Базовые Факторы, понижающие Рассудок (SP)"
+        "FactorsIncreasingSanity":"Факторы, увеличивающие Рассудок (SP)",
+        "FactorsDecreasingSanity":"Факторы, понижающие Рассудок (SP)"
     },
     "TierListDisclaimer":{
         "header":"Дисклеймер"
@@ -400,5 +402,47 @@
         "gloom":"Уныние",
         "pride":"Гордость",
         "envy":"Зависть"
-    }
+    },
+    "FiltersSectionMd.header":"Keywords",
+    "MirrorDungeonNav":{
+        "rest-stops":"rest-stops",
+        "gifts":"gifts",
+        "events":"events"
+    },
+    "GiftsList":{
+        "Gifts":"Gifts",
+        "SELECTED":"SELECTED",
+        "tier":" tier"
+    },
+    "GiftsHeader":{
+        "description":"Selected gift description",
+        "obtain":"Obtain",
+        "buy":"Buying Cost: ",
+        "sell":"Selling Cost:  ",
+        "craft":"Used to craft: ",
+        "additionalInfo":"Selected gift additional info",
+        "name":"Selected gift name"
+    },
+    "Gift":{
+        "img":"Selected gift image"
+    },
+    "MDEventOption":{
+        "combat_header":"Combat Encounter!",
+        "check":"Check: ",
+        "advantage":"Advantage",
+        "no_advantage":"No Advantage: ",
+        "check_failed":"Check Failed",
+        "check_passed":"Check Passed"
+    },
+    "MirrorDungeonPage":{
+        "title_rs":"Rest Stops Mirror Dungeon",
+        "title_events":"Events Mirror Dungeon",
+        "title_gifts":"Gifts Mirror Dungeon",
+        "header":"Mirror Dungeon"
+    },
+    "GiftItem":{
+        "info":"Select to view the info",
+        "crafts":"Crafts"
+    },
+    "FiltersSection.none":"no tag"
 }

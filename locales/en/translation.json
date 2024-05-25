@@ -39,9 +39,9 @@
         "2":"Improving team builder functionality",
         "3":"General improvements to the site's interface and content",
         "header":"Site Improvement Plans",
-        "contactUs":"If you have ideas or suggestions, please go to ",
-        "contactUs2":"OUR CONTACTS",
-        "contactUs3":" and fill out the 'Full questionnaire on Great Limbus Library'."
+        "contactUs":"If you have ideas or suggestions, please click on the ",
+        "contactUs2":"QUESTIONNAIRE",
+        "contactUs3":" section and fill out the 'Full questionnaire on Great Limbus Library'."
     },
     "LeftMenu":{
         "graditude":"SITE SUPPORT",
@@ -51,7 +51,9 @@
         "ego":"EGO",
         "statuses":"STATUSES",
         "aboutgame":"ABOUT THE GAME",
-        "contact":"OUR CONTACTS"
+        "contact":"OUR CONTACTS",
+        "mirror_dungeon":"MIRROR DUNGEON",
+        "feedback":"QUESTIONNAIRE"
     },
     "TierListPage":{
         "title":"Tier List",
@@ -283,7 +285,7 @@
         "damageType": "Damage Type",
         "sin": "Sin",
         "maxCoin": "Maximum Coin Value (Base)",
-        "coinCondition": "Maximum Coin Value considering Skill and Combat Passive conditions",
+        "coinCondition": "Maximum Coin Value considering Skill and Combat Passive conditions (In Clash)",
         "defenceLevel": "Defence Level",
         "offenceLevel": "Offence Level",
         "minPotencial": "Minimum Potential Damage of the skill (calculations by Sir Alonne)",
@@ -363,8 +365,8 @@
     },
     "EntityFullInfoSanity":{
         "PanicEffects":"Panic Effects",
-        "FactorsIncreasingSanity":"Base Factors Increasing Sanity",
-        "FactorsDecreasingSanity":"Base Factors Decreasing Sanity"
+        "FactorsIncreasingSanity":"Factors Increasing Sanity",
+        "FactorsDecreasingSanity":"Factors Decreasing Sanity"
     },
     "TierListDisclaimer":{
         "header":"Disclaimer"
@@ -399,5 +401,47 @@
         "pride":"Pride",
         "envy":"Envy"
 
-    }
+    },
+    "FiltersSectionMd.header":"Keywords",
+    "MirrorDungeonNav":{
+        "rest-stops":"rest-stops",
+        "gifts":"gifts",
+        "events":"events"
+    },
+    "GiftsList":{
+        "Gifts":"Gifts",
+        "SELECTED":"SELECTED",
+        "tier":" tier"
+    },
+    "GiftsHeader":{
+        "description":"Selected gift description",
+        "obtain":"Obtain",
+        "buy":"Buying Cost: ",
+        "sell":"Selling Cost:  ",
+        "craft":"Used to craft: ",
+        "additionalInfo":"Selected gift additional info",
+        "name":"Selected gift name"
+    },
+    "Gift":{
+        "img":"Selected gift image"
+    },
+    "MDEventOption":{
+        "combat_header":"Combat Encounter!",
+        "check":"Check: ",
+        "advantage":"Advantage",
+        "no_advantage":"No Advantage: ",
+        "check_failed":"Check Failed",
+        "check_passed":"Check Passed"
+    },
+    "MirrorDungeonPage":{
+        "title_rs":"Rest Stops Mirror Dungeon",
+        "title_events":"Events Mirror Dungeon",
+        "title_gifts":"Gifts Mirror Dungeon",
+        "header":"Mirror Dungeon"
+    },
+    "GiftItem":{
+        "info":"Select to view the info",
+        "crafts":"Crafts"
+    },
+    "FiltersSection.none":"no tag"
 }
