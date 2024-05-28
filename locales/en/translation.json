@@ -285,7 +285,7 @@
         "damageType": "Damage Type",
         "sin": "Sin",
         "maxCoin": "Maximum Coin Value (Base)",
-        "coinCondition": "Maximum Coin Value considering Skill and Combat Passive conditions (In Clash)",
+        "coinCondition": "Maximum Coin Value considering Skill and Combat Passive conditions [In Clash]",
         "defenceLevel": "Defence Level",
         "offenceLevel": "Offence Level",
         "minPotencial": "Minimum Potential Damage of the skill (calculations by Sir Alonne)",
@@ -365,8 +365,8 @@
     },
     "EntityFullInfoSanity":{
         "PanicEffects":"Panic Effects",
-        "FactorsIncreasingSanity":"Factors Increasing Sanity",
-        "FactorsDecreasingSanity":"Factors Decreasing Sanity"
+        "FactorsIncreasingSanity":"Base Factors Increasing Sanity",
+        "FactorsDecreasingSanity":"Base Factors Decreasing Sanity"
     },
     "TierListDisclaimer":{
         "header":"Disclaimer"
@@ -404,9 +404,9 @@
     },
     "FiltersSectionMd.header":"Keywords",
     "MirrorDungeonNav":{
-        "rest-stops":"rest-stops",
-        "gifts":"gifts",
-        "events":"events"
+        "rest-stops":"Rest Stop",
+        "gifts":"Gifts",
+        "events":"Events"
     },
     "GiftsList":{
         "Gifts":"Gifts",
@@ -415,7 +415,7 @@
     },
     "GiftsHeader":{
         "description":"Selected gift description",
-        "obtain":"Obtain",
+        "obtain":"Obtain:",
         "buy":"Buying Cost: ",
         "sell":"Selling Cost:  ",
         "craft":"Used to craft: ",
@@ -428,7 +428,7 @@
     "MDEventOption":{
         "combat_header":"Combat Encounter!",
         "check":"Check: ",
-        "advantage":"Advantage",
+        "advantage":"Advantage: ",
         "no_advantage":"No Advantage: ",
         "check_failed":"Check Failed",
         "check_passed":"Check Passed"
@@ -443,5 +443,5 @@
         "info":"Select to view the info",
         "crafts":"Crafts"
     },
-    "FiltersSection.none":"no tag"
+    "FiltersSection.none":"None"
 }
