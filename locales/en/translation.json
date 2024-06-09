@@ -371,6 +371,9 @@
     "TierListDisclaimer":{
         "header":"Disclaimer"
     },
+    "RestRoomDisclaimer":{
+        "header":"EGO Gift Fusion Details"
+    },
     "FiltersSection":{
         "O":"0",
         "OO":"00",
@@ -405,25 +408,25 @@
     "FiltersSectionMd.header":"Keywords",
     "MirrorDungeonNav":{
         "rest-stops":"Rest Stop",
-        "gifts":"Gifts",
+        "gifts":"EGO Gifts",
         "events":"Events"
     },
     "GiftsList":{
-        "Gifts":"Gifts",
+        "Gifts":"EGO Gifts",
         "SELECTED":"SELECTED",
-        "tier":" tier"
+        "tier":" Tier"
     },
     "GiftsHeader":{
-        "description":"Selected gift description",
-        "obtain":"Obtain:",
-        "buy":"Buying Cost: ",
-        "sell":"Selling Cost:  ",
-        "craft":"Used to craft: ",
-        "additionalInfo":"Selected gift additional info",
-        "name":"Selected gift name"
+        "description":"Selected EGO Gift Description",
+        "obtain":"Way to Obtain:",
+        "buy":"Buying Cost:",
+        "sell":"Selling Cost:",
+        "craft":"Used to Craft:",
+        "additionalInfo":"Selected EGO Gift Additional Info",
+        "name":"Selected EGO Gift name"
     },
     "Gift":{
-        "img":"Selected gift image"
+        "img":"Selected EGO Gift Image"
     },
     "MDEventOption":{
         "combat_header":"Combat Encounter!",
@@ -436,12 +439,12 @@
     "MirrorDungeonPage":{
         "title_rs":"Rest Stops Mirror Dungeon",
         "title_events":"Events Mirror Dungeon",
-        "title_gifts":"Gifts Mirror Dungeon",
+        "title_gifts":"EGO Gifts Mirror Dungeon",
         "header":"Mirror Dungeon"
     },
     "GiftItem":{
-        "info":"Select to view the info",
-        "crafts":"Crafts"
+        "info":"Select to View the Info",
+        "crafts":"Fused EGO Gifts"
     },
-    "FiltersSection.none":"None"
+    "FiltersSection.none":"Keywordless"
 }
