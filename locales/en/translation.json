@@ -180,13 +180,18 @@
     "ContactPage.title": "Contact",
     "ContactInfo": {
         "header": "Our Contacts:",
+        "colleagues": {
+            "header":"URL to Our Colleagues:",
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": ""
+        },
         "copied": "Nickname copied",
         "originalAuthor": "Original Document Author",
         "creator": "Website Creator",
         "workers.header": "Contributors to the Website:",
-        "questionnaire":"Full questionnaire on Great Limbus Library",
         "workers1": {
-            "header": "Library Heads:",
             "1": "Ritsy"
         },
         "workers2": {
