@@ -192,6 +192,7 @@
         "creator": "Website Creator",
         "workers.header": "Contributors to the Website:",
         "workers1": {
+            "header":"Head of the Library:",
             "1": "Ritsy"
         },
         "workers2": {
