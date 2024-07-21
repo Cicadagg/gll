@@ -1,12 +1,12 @@
 {
     "MainInfo": {
-        "headerTitle":"Great Limbus Library is a fan site and database",
-        "headerDescription":"developed by the community, dedicated to Limbus Company.",
-        "headerDescription2":"If You want to keep up with the news about site updates,",
-        "headerDescription3":"You can go to the ",
+        "headerTitle":"Great Limbus Library is a fan site and database developed by the community,",
+        "headerDescription":"dedicated to Limbus Company.",
+        "headerDescription2":"If You want to keep up with the news about site updates, You can go",
+        "headerDescription3":"to the ",
         "headerDescription4":"SITE SUPPORT",
-        "headerDescription5":" section and go from there to Boosty,",
-        "headerDescription6":"the latest news is published there for free."
+        "headerDescription5":" section and go from there to Boosty, the latest news ",
+        "headerDescription6":"is published there for free."
     },
     "EntitySection": {
         "new" : "Recently Released Identities and EGOs"
@@ -192,8 +192,7 @@
         "creator": "Website Creator",
         "workers.header": "Contributors to the Website:",
         "workers1": {
-            "header": "Head of the Library:",
-            "1": "Ritsu as Aina"
+            "1": "Ritsy"
         },
         "workers2": {
             "header": "Patron Librarians:",
@@ -301,6 +300,47 @@
         "weight": "Number of slots hit by the skill considering buffs"
     },
     "EntityFullInfoIdentity": {
+        "info": "Info",
+        "season":{
+            "w-1":"Walpurgis Night I",
+            "w-2":"Walpurgis Night II",
+            "w-3":"Walpurgis Night III",
+            "w-4":"Walpurgis Night IV",
+            "w-5":"Walpurgis Night V",
+            "w-6":"Walpurgis Night VI",
+            "w-7":"Walpurgis Night VII",
+            "w-8":"Walpurgis Night VIII",
+            "w-9":"Walpurgis Night IX",
+            "w-10":"Walpurgis Night X",
+            "w-11":"Walpurgis Night XI",
+            "w-12":"Walpurgis Night XII",
+            "s-0":"Standard Fare",
+            "s-1":"Season 1 - Orientation",
+            "s-2":"Season 2 - Reminiscence",
+            "s-3":"Season 3 - Bon Voyage",
+            "s-4":"Season 4 - Clear All Cathy",
+            "s-5":"Season 5 - *",
+            "s-6":"Season 6 - *",
+            "s-7":"Season 7 - *",
+            "s-8":"Season 8 - *",
+            "s-9":"Season 9 - *",
+            "s-10":"Season 10 - *",
+            "s-11":"Season 11 - *",
+            "s-12":"Season 12 - *",
+            "e-1":"Season 1 - Orientation [Event]",
+            "e-2":"Season 2 - Reminiscence [Event]",
+            "e-3":"Season 3 - Bon Voyage [Event]",
+            "e-4":"Season 4 - Clear All Cathy [Event]",
+            "e-5":"Season 5 - * [Event]",
+            "e-6":"Season 6 - * [Event]",
+            "e-7":"Season 7  - * [Event]",
+            "e-8":"Season 8 - * [Event]",
+            "e-9":"Season 9 - * [Event]",
+            "e-10":"Season 10 - * [Event]",
+            "e-11":"Season 11  - * [Event]",
+            "e-12":"Season 12 - * [Event]"
+        },
+        "release":"Release: ",
         "statuses": "Statuses",
         "stagger": "Stagger Threshold",
         "stats": "Stats",
@@ -343,6 +383,7 @@
         "[failedkill]" : "[Failed Kill] ",
         "[critattackend]" : "[Crit Attack End] ",
         "[turnend]" : "[Turn End] ",
+        "[skillend]" : "[Skill End] ",
         "fc" : " Final Power",
         "bc" : " Base Power",
         "cg" : " Coin Power",
