@@ -385,6 +385,7 @@
         "[critattackend]" : "[Crit Attack End] ",
         "[turnend]" : "[Turn End] ",
         "[skillend]" : "[Skill End] ",
+        "[oncritkill]": "[On Crit Kill] ",
         "fc" : " Final Power",
         "bc" : " Base Power",
         "cg" : " Coin Power",
@@ -483,7 +484,9 @@
         "advantage":"Advantage: ",
         "no_advantage":"No Advantage: ",
         "check_failed":"Check Failed",
-        "check_passed":"Check Passed"
+        "check_passed":"Check Passed",
+        "gifts_list_header":"Possible EGO Gifts to Receive:",
+        "no_gifts":"None"
     },
     "MirrorDungeonPage":{
         "title_rs":"Rest Stops Mirror Dungeon",
