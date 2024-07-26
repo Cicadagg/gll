@@ -414,7 +414,7 @@
         "hide":"Hide"
     },
     "EntityFullInfoSanity":{
-        "PanicEffects":"Panic Effects",
+        "PanicTypes":"Panic Types",
         "FactorsIncreasingSanity":"Base Factors Increasing Sanity",
         "FactorsDecreasingSanity":"Base Factors Decreasing Sanity"
     },
