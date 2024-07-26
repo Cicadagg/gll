@@ -422,7 +422,7 @@
         "hide":"Скрыть"
     },
     "EntityFullInfoSanity":{
-        "PanicEffects":"Эффекты Паники",
+        "PanicTypes":"Типы Паники",
         "FactorsIncreasingSanity":"Базовые Факторы, увеличивающие Рассудок (SP)",
         "FactorsDecreasingSanity":"Базовые Факторы, понижающие Рассудок (SP)"
     },
