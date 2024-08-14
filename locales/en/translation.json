@@ -192,6 +192,7 @@
         "creator": "Website Creator",
         "workers.header": "Contributors to the Website:",
         "workers1": {
+            "header":"Library Director:",
             "1": "Ritsy"
         },
         "workers2": {
@@ -414,7 +415,7 @@
         "hide":"Hide"
     },
     "EntityFullInfoSanity":{
-        "PanicTypes":"Panic Types",
+        "PanicEffects":"Panic Effects",
         "FactorsIncreasingSanity":"Base Factors Increasing Sanity",
         "FactorsDecreasingSanity":"Base Factors Decreasing Sanity"
     },
