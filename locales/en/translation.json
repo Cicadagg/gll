@@ -1,12 +1,9 @@
 {
     "MainInfo": {
-        "headerTitle":"Great Limbus Library is a fan site and database developed by the community,",
-        "headerDescription":"dedicated to Limbus Company.",
-        "headerDescription2":"If You want to keep up with the news about site updates, You can go",
-        "headerDescription3":"to the ",
-        "headerDescription4":"SITE SUPPORT",
-        "headerDescription5":" section and go from there to Boosty, the latest news ",
-        "headerDescription6":"is published there for free."
+        "headerDescription1":"Great Limbus Library is a fan site and database developed by the community, dedicated to Limbus Company.",
+        "headerDescription2":"If You want to keep up with the news about site updates, You can go to the ",
+        "headerDescription3":"SITE SUPPORT",
+        "headerDescription4":" section and go from there to Boosty, the latest news is published there for free."
     },
     "EntitySection": {
         "new" : "Recently Released Identities and EGOs"
@@ -31,6 +28,9 @@
         "s":"s",
         "h":"h"
     },
+    "NewsSection":{
+        "header":"Last news about GLL"
+    },
     "OfficialLinksSection":{
         "header":"Official Links"
     },
@@ -48,6 +48,7 @@
         "tierlist":"TIER LIST",
         "teambuilder":"TEAM BUILDER",
         "identities":"IDENTITIES",
+        "guides":"GUIDES",
         "ego":"EGO",
         "statuses":"STATUSES",
         "aboutgame":"ABOUT THE GAME",
@@ -216,7 +217,8 @@
             "7":"Knightey as 앤젤라의 개 and personal Watson and NEET",
             "8":"The Cyan Sunset as Carmen",
             "9":"Unawakened",
-            "10":"Unawakened"
+            "10.1":"FORGOTTEN as a war seal",
+            "10.2":"Xoskar as coffin of Funeral of the Dead Butterflies"
         },
         "workers3": {
         "header": "Lost Books:",
@@ -501,5 +503,9 @@
         "info":"Select to View the Info",
         "crafts":"Fused EGO Gifts"
     },
-    "FiltersSection.none":"Keywordless"
+    "FiltersSection.none":"Keywordless",
+    "GuidesPage":{
+        "header":"Guides",
+        "title":"Guides"
+    }
 }

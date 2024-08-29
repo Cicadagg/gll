@@ -4,7 +4,6 @@ https://gll-fun.com/?/en/ego
 https://gll-fun.com/?/en/identities 
 https://gll-fun.com/?/en/teambuilder
 https://gll-fun.com/?/en/statuses 
-https://gll-fun.com/?/en/tierlist/passives
 https://gll-fun.com/?/en/tierlist/ego
 https://gll-fun.com/?/en/tierlist/identities
 https://gll-fun.com/?/en/graditude
@@ -463,7 +462,6 @@ https://gll-fun.com/?/ru/ego
 https://gll-fun.com/?/ru/identities 
 https://gll-fun.com/?/ru/teambuilder
 https://gll-fun.com/?/ru/statuses 
-https://gll-fun.com/?/ru/tierlist/passives
 https://gll-fun.com/?/ru/tierlist/ego
 https://gll-fun.com/?/ru/tierlist/identities
 https://gll-fun.com/?/ru/graditude

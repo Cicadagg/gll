@@ -1,12 +1,9 @@
 {
     "MainInfo": {
-        "headerTitle":" Great Limbus Library: это фан-сайт и база данных, разработанные",
-        "headerDescription":" сообществом, посвященные игре Limbus Company.",
-        "headerDescription2":"Если Вы хотите следить за новостями об обновлении сайта, можете",
-        "headerDescription3":"перейти в раздел ",
-        "headerDescription4":"ПОДДЕРЖКА САЙТА",
-        "headerDescription5":" и оттуда перейти на Boosty,",
-        "headerDescription6":"где в бесплатном доступе публикуются последние новости."
+        "headerDescription1":" Great Limbus Library: это фан-сайт и база данных, разработанные сообществом, посвященные игре Limbus Company.",
+        "headerDescription2":"Если Вы хотите следить за новостями об обновлении сайта, можете перейти в раздел ",
+        "headerDescription3":"ПОДДЕРЖКА САЙТА",
+        "headerDescription4":" и оттуда перейти на Boosty, где в бесплатном доступе публикуются последние новости."
     },
     "EntitySection": {
         "new" : "Недавно вышедшие Идентичности и ЭГО"
@@ -31,6 +28,9 @@
         "s":"с",
         "h":"ч"
     },
+    "NewsSection":{
+        "header":"Последние новости о GLL"
+    },
     "OfficialLinksSection":{
         "header":"Ссылки на официальные источники"
     },
@@ -47,6 +47,7 @@
         "graditude":"ПОДДЕРЖКА САЙТА",
         "tierlist":"ТИР ЛИСТ",
         "teambuilder":"ТИМ БИЛДЕР",
+        "guides":"ГАЙДЫ",
         "identities":"ИДЕНТИЧНОСТИ",
         "ego":"ЭГО",
         "statuses":"СТАТУСЫ",
@@ -215,7 +216,8 @@
             "7":"Knightey в роли 앤젤라의 개 и личного Ватсона и НИТа",
             "8":"The Cyan Sunset в роли Кармен",
             "9":"hgjrtu в роли самого адекватного тирлистенка",
-            "10":"Непробуждённый"
+            "10.1":"FORGOTTEN в роли боевого тюленя",
+            "10.2":"Xoskar в роли гроба Похорон Мёртвых Бабочек"
         },
         "workers3":{
             "header":"Потерянные Книги:",
@@ -503,9 +505,14 @@
         "title_gifts":"ЭГО Дары Зеркального Подземелья",
         "header":"Зеркальное Подземелье"
     },
+    
     "GiftItem":{
         "info":"Нажмите, Чтобы Увидеть Информацию",
         "crafts":"Объединенные ЭГО Дары"
     },
-    "FiltersSection.none":"Отсутствует"
+    "FiltersSection.none":"Отсутствует",
+    "GuidesPage":{
+        "header":"Гайды",
+        "title":"Гайды"
+    }
 }
