@@ -189,7 +189,8 @@
             "4": ""
         },
         "copied": "Nickname copied",
-        "originalAuthor": "Original Document Author",
+        "originalAuthor": "Original Document Author:",
+        "tierListMaker": "Tier List Maker:",
         "creator": "Website Creator",
         "workers.header": "Contributors to the Website:",
         "workers1": {
