@@ -170,6 +170,7 @@
         "description": "Description"
     },
     "AboutGamePage.title": "About the Game",
+    "AboutGamePage.descriptionText": "",
     "AboutGameInfo": {
         "officialLinks": "Official Links",
         "header": "About the Game",
@@ -210,7 +211,7 @@
             "patron10":"[Floor of Religion]",
             "1":"Klinch as a Average Grade 9 Fixer",
             "2":"Unawakened",
-            "3":"Sir Alonne в роли слабейшего ПМ минмаксера",
+            "3":"Sir Alonne as a Weakest LCB Minmaxer",
             "4":"Unawakened",
             "5":"morj. as the hardest worker (real)",
             "6":"turbae_carissimus",
