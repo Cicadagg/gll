@@ -43,6 +43,12 @@
 <priority>0.8</priority>
 </url>
 <url>
+<loc>https://gll-fun.com/?/en/guides</loc>
+<lastmod>2023-07-24</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
 <loc>https://gll-fun.com/?/en/statuses</loc>
 <lastmod>2023-07-24</lastmod>
 <changefreq>daily</changefreq>
@@ -86,6 +92,12 @@
 </url>
 <url>
 <loc>https://gll-fun.com/?/ru/teambuilder</loc>
+<lastmod>2023-07-24</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://gll-fun.com/?/ru/guides</loc>
 <lastmod>2023-07-24</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.8</priority>
