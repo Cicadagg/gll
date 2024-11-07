@@ -61,7 +61,6 @@
         "header":"Tier List",
         "description":"Only the tier of Identities/EGO matters. Within tiers, the position of Identities/EGO is NOT a ranking of strength."
     },
-    "TierListPage.descriptionText":"The best tearlist for your favorite Limbus Company game, which is the legendary Sir Alonne!!",
     "TierListNav":{
         "ego":"EGO",
         "identities":"Identities"
@@ -108,7 +107,8 @@
             "dangerLvl":"Danger level",
             "sin":"Sin",
             "sinner":"Sinner",
-            "statusType":"Status type"
+            "statusType":"Status type",
+            "tags": "Tags"
         }
     },
     "Search":{
@@ -118,7 +118,6 @@
         "title":"Team Builder",
         "header":"Team Builder"
     },
-    "TeamBuilderPage.descriptionText":"The most convenient team builder in the world, you can easily do whatever you want and see if your team is strong!",
     "TbSins.header": "Sins",
     "TbTags": {
         "header": "Statuses",
@@ -146,12 +145,10 @@
         "title": "List of EGO",
         "header": "List of EGO"
     },
-    "EGOsPage.descriptionText": "On this page you will find all the Egos that are currently available in the game! We replenish it quickly and efficiently!",
     "IdentitiesPage": {
         "title": "List of Identities",
         "header": "List of Identities"
     },
-    "IdentitiesPage.descriptionText": "On this page you will find all the Identities that are currently available in the game! We replenish it quickly and efficiently!",
     "ListEgo": {
         "empty": "No available EGO. Try disabling some filters.",
         "header": "Found EGOs"
@@ -160,11 +157,14 @@
         "empty": "No available Identities. Try disabling some filters.",
         "header": "Found Identities"
     },
+    "ListGuides": {
+        "empty": "No available Guides. Try disabling some filters.",
+        "header": "Guides Encontradas"
+    },
     "StatusesPage": {
         "title": "List of Statuses",
         "header": "List of Statuses"
     },
-    "StatusesPage.descriptionText":"Can't figure out what status does? Come to us, we will tell you everything!!!",
     "StatusesTable": {
         "header": {
             "sinner": "Statuses related to sinners",
@@ -175,7 +175,6 @@
         "description": "Description"
     },
     "AboutGamePage.title": "About the Game",
-    "AboutGamePage.descriptionText": "Limbus Company incorporates a variety of gameplay mechanics, ranging from turn-based combat to collecting, management, and roguelike elements. The game was developed and published by a South Korean indie studio.",
     "AboutGameInfo": {
         "officialLinks": "Official Links",
         "header": "About the Game",
@@ -185,7 +184,6 @@
         }
     },
     "ContactPage.title": "Contact",
-    "ContactPage.descriptionText": "All possible ways to contact us, as well as any useful links.",
     "ContactInfo": {
         "header": "Our Contacts:",
         "colleagues": {
@@ -196,7 +194,8 @@
             "4": ""
         },
         "copied": "Nickname copied",
-        "originalAuthor": "Original Document Author",
+        "originalDoc": "Original Document",
+        "discordLink":"Link to our Discord server:",
         "creator": "Website Creator",
         "workers.header": "Contributors to the Website:",
         "workers1": {
@@ -215,9 +214,10 @@
             "patron8":"[Floor of Social Sciences]",
             "patron9":"[Floor of Philosophy]",
             "patron10":"[Floor of Religion]",
-            "1":"Klinch as a Average Grade 9 Fixer",
+            "1.1":"Klinch as a Average Grade 9 Fixer",
+            "1.2":"Selerm As The Detective, Lieutenant double-yefreitor",
             "2":"Unawakened",
-            "3":"Sir Alonne as a Weakest LCB Minmaxer",
+            "3":"Sir Alonne в роли слабейшего ПМ минмаксера",
             "4":"Unawakened",
             "5":"morj. as the hardest worker (real)",
             "6":"turbae_carissimus",
@@ -241,7 +241,6 @@
         }
     },
     "GraditudePage.title":"Graditudes",
-    "GraditudePage.descriptionText":"Many thanks to everyone who supported us! All our patrons are written here!!!!",
     "GraditudeInfo":{
         "text-donation":{
             "header":"Support Information",
@@ -507,7 +506,6 @@
         "title_gifts":"EGO Gifts Mirror Dungeon",
         "header":"Mirror Dungeon"
     },
-    "MirrorDungeonPage.descriptionText":"All events and gifts are available only from us at a huge discount... FOR FREE!! Let's read it!",
     "GiftItem":{
         "info":"Select to View the Info",
         "crafts":"Fused EGO Gifts"
