@@ -29,7 +29,7 @@
         "h":"h"
     },
     "NewsSection":{
-        "header":"Last news about GLL"
+        "header":"Latest GLL news"
     },
     "OfficialLinksSection":{
         "header":"Official Links"
@@ -52,9 +52,9 @@
         "ego":"EGO",
         "statuses":"STATUSES",
         "aboutgame":"ABOUT THE GAME",
-        "contact":"OUR CONTACTS",
+        "contact":"SITE TEAM AND OUR COLLEAGUES",
         "mirror_dungeon":"MIRROR DUNGEON",
-        "feedback":"QUESTIONNAIRE"
+        "discord":"DISCORD"
     },
     "TierListPage":{
         "title":"Tier List",
@@ -185,7 +185,7 @@
     },
     "ContactPage.title": "Contact",
     "ContactInfo": {
-        "header": "Our Contacts:",
+        "header": "Original Document",
         "colleagues": {
             "header":"URL to Our Colleagues:",
             "1": "",
@@ -194,8 +194,6 @@
             "4": ""
         },
         "copied": "Nickname copied",
-        "originalDoc": "Original Document",
-        "discordLink":"Link to our Discord server:",
         "creator": "Website Creator",
         "workers.header": "Contributors to the Website:",
         "workers1": {
@@ -413,7 +411,7 @@
         "ryoshu":"Ryoshu",
         "mersault":"Mersault",
         "honglu":"Hong Lu",
-        "heathcliff":"Hethcliff",
+        "heathcliff":"Heathcliff",
         "ishmael":"Ishmael",
         "rodion":"Rodion",
         "sinclair":"Sinclair",
@@ -446,7 +444,7 @@
         "ryoshu":"Ryoshu",
         "mersault":"Mersault",
         "hong lu":"Hong Lu",
-        "heathcliff":"Hethcliff",
+        "heathcliff":"Heathcliff",
         "ishmael":"Ishmael",
         "rodion":"Rodion",
         "sinclair":"Sinclair",
