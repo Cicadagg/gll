@@ -52,9 +52,9 @@
         "ego":"ЭГО",
         "statuses":"СТАТУСЫ",
         "aboutgame":"ОБ ИГРЕ",
-        "contact":"НАШИ КОНТАКТЫ",
+        "contact":"КОМАНДА САЙТА И НАШИ КОЛЛЕГИ",
         "mirror_dungeon":"ЗЕРКАЛЬНОЕ ПОДЗЕМЕЛЬЕ",
-        "feedback":"ОПРОСНИК"
+        "discord":"ДИСКОРД"
     },
     "TierListPage":{
         "title":"Тир Лист",
@@ -184,7 +184,7 @@
     },
     "ContactPage.title":"Контакт",
     "ContactInfo":{
-        "header":"Наши Контакты:",
+        "header":"Оригинальный Док:",
         "colleagues":{
             "header":"Ссылки на Наших Коллег:",
             "1": "Русификатор",
@@ -193,8 +193,6 @@
             "4": ""
         },
         "copied":"Никнейм скопирован",
-        "originalDoc":"Оригинальный Док:",
-        "discordLink":"Ссылка на наш Дискорд сервер:",
         "creator":"Создатель сайта",
         "workers.header":"Над Сайтом Работали:",
         "workers1":{
@@ -453,7 +451,7 @@
         "ryoshu":"Рёшу",
         "mersault":"Мерсо",
         "hong lu":"Хон Лу",
-        "heathcliff":"Хитклифф",
+        "heathcliff":"Хитклиф",
         "ishmael":"Измаил",
         "rodion":"Родя",
         "sinclair":"Синклер",
