@@ -39,6 +39,7 @@
     "tierlist": "LISTA TIERÓW",
     "teambuilder": "BUDOWANIE ZESPOŁU",
     "identities": "TOŻSAMOŚCI",
+    "guides":"GUIDES",
     "ego": "EGO",
     "statuses": "STATUSY",
     "aboutgame": "O GRZE",
@@ -87,7 +88,8 @@
     "dangerLvl": "Poziom niebezpieczeństwa",
     "sin": "Grzech",
     "sinner": "Grzesznik",
-    "statusType": "Typ statusu"
+    "statusType": "Typ statusu",
+    "tags": "Tags"
     }
     },
     "Search": {
@@ -135,6 +137,10 @@
     "ListIds": {
         "empty": "Brak dostępnych Tożsamości. Spróbuj wyłączyć niektóre filtry.",
         "header": "Znalezione Tożsamości"
+    },
+    "ListGuides": {
+        "empty": "No hay Identidades disponibles. Intenta desactivar algunos filtros.",
+        "header": "Guides Encontradas"
     },
     "StatusesPage": {
         "title": "Lista Statusów",

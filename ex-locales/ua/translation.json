@@ -38,6 +38,7 @@
         "tierlist": "ТАБЛИЦЯ РІВНІВ",
         "teambuilder": "ТІM БІЛДЕР",
         "identities": "ІДЕНТИЧНОСТІ",
+        "guides":"GUIDES",
         "ego": "ЕГО",
         "statuses": "СТАТУСИ",
         "aboutgame": "ПРО ГРУ",
@@ -86,7 +87,8 @@
             "dangerLvl": "Рівень небезпеки",
             "sin": "Гріх",
             "sinner": "Грішник",
-            "statusType": "Тип статусу"
+            "statusType": "Тип статусу",
+            "tags": "Tags"
         }
     },
     "Search": {
@@ -134,6 +136,10 @@
     "ListIds": {
         "empty": "Немає доступних Ідентичностей. Спробуйте вимкнути деякі фільтри.",
         "header": "Знайдені Ідентичності"
+    },
+    "ListGuides": {
+        "empty": "No hay Identidades disponibles. Intenta desactivar algunos filtros.",
+        "header": "Guides Encontradas"
     },
     "StatusesPage": {
         "title": "Список Статусів",

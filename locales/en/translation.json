@@ -29,19 +29,21 @@
         "h":"h"
     },
     "NewsSection":{
-        "header":"Latest GLL news"
+        "header":"Latest GLL news",
+        "description":"Click on the image for more details"
     },
     "OfficialLinksSection":{
         "header":"Official Links"
     },
     "ToDoSection":{
-        "1":"Adding guides",
-        "2":"Improving team builder functionality",
-        "3":"General improvements to the site's interface and content",
+        "1":"Adding new guides",
+        "2":"Adding Uptie Tier for Identities and Threadspin Tier for Egos",
+        "3":"Improving Team Builder functionality",
+        "4":"General improvements to the site's interface and content",
         "header":"Site Improvement Plans",
-        "contactUs":"If you have ideas or suggestions, please click on the ",
-        "contactUs2":"QUESTIONNAIRE",
-        "contactUs3":" section and fill out the 'Full questionnaire on Great Limbus Library'."
+        "contactUs":"If you have any ideas, suggestions, or just want to follow our activities, we are waiting for you on our ",
+        "contactUs2":"DISCORD",
+        "contactUs3":" server."
     },
     "LeftMenu":{
         "graditude":"SITE SUPPORT",

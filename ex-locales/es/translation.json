@@ -38,6 +38,7 @@
         "tierlist": "LISTA DE NIVELES",
         "teambuilder": "CONSTRUCTOR DE EQUIPOS",
         "identities": "IDENTIDADES",
+        "guides":"GUIDES",
         "ego": "EGO",
         "statuses": "ESTADOS",
         "aboutgame": "SOBRE EL JUEGO",
@@ -86,7 +87,8 @@
             "dangerLvl": "Nivel de peligro",
             "sin": "Pecado",
             "sinner": "Pecador",
-            "statusType": "Tipo de estado"
+            "statusType": "Tipo de estado",
+            "tags": "Tags"
         }
     },
     "Search": {
@@ -134,6 +136,10 @@
     "ListIds": {
         "empty": "No hay Identidades disponibles. Intenta desactivar algunos filtros.",
         "header": "Identidades Encontradas"
+    },
+    "ListGuides": {
+        "empty": "No hay Identidades disponibles. Intenta desactivar algunos filtros.",
+        "header": "Guides Encontradas"
     },
     "StatusesPage": {
         "title": "Lista de Estados",
