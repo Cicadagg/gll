@@ -471,7 +471,7 @@
     },
     "FiltersSectionMd.header":"Keywords",
     "MirrorDungeonNav":{
-        "rest-stops":"Rest Stop",
+        "rest-stops":"Shop",
         "gifts":"EGO Gifts",
         "events":"Events"
     },
@@ -503,7 +503,7 @@
         "no_gifts":"None"
     },
     "MirrorDungeonPage":{
-        "title_rs":"Rest Stops Mirror Dungeon",
+        "title_rs":"Shop Mirror Dungeon",
         "title_events":"Events Mirror Dungeon",
         "title_gifts":"EGO Gifts Mirror Dungeon",
         "header":"Mirror Dungeon"
