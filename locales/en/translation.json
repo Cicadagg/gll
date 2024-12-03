@@ -169,8 +169,11 @@
     },
     "StatusesTable": {
         "header": {
-            "sinner": "Statuses related to sinners",
-            "anomaly": "Statuses related to anomalies"
+            "sinner": "Statuses related to Sinners",
+            "ego": "Statuses related to EGOs",
+            "sinner_story": "Statuses related to Sinners in story",
+            "anomaly": "Statuses related only to enemy",
+            "none": "Statuses with unknown source"
         },
         "status": "Status",
         "name": "Name",
