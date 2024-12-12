@@ -293,13 +293,13 @@
         "sanity": "Sanity Cost",
         "maxCoin": "Maximum Coin Value (Base)",
         "coinCondition": "Maximum Coin Value considering Skill and Combat Passive conditions",
-        "weightBase": "Number of slots hit by the skill (Base)",
-        "weight": "Number of slots hit by the skill considering buffs"
+        "weightBase": "Number of slots hit by the Skill (Base)",
+        "weight": "Number of slots hit by the Skill considering buffs"
     },
     "EntityFullInfoSkill": {
         "skill": "Skill",
         "defSkill": "Defensive Skill",
-        "count": "Count in rotation of 6 skills",
+        "count": "Count in rotation of 6 Skills",
         "baseValue": "Base Value",
         "coinGain": "Base Coin Gain",
         "guardType": "Guard Type",
@@ -309,10 +309,10 @@
         "coinCondition": "Maximum Coin Value considering Skill and Combat Passive conditions [In Clash]",
         "defenceLevel": "Defence Level",
         "offenceLevel": "Offence Level",
-        "minPotencial": "Minimum Potential Damage of the skill (calculations by Sir Alonne)",
-        "maxPotencial": "Maximum Potential Damage of the skill (calculations by Sir Alonne)",
-        "weightBase": "Number of slots hit by the skill (Base)",
-        "weight": "Number of slots hit by the skill considering buffs"
+        "minPotencial": "Minimum Potential Damage of the Skill (calculations by Sir Alonne)",
+        "maxPotencial": "Maximum Potential Damage of the Skill (calculations by Sir Alonne)",
+        "weightBase": "Number of slots hit by the Skill (Base)",
+        "weight": "Number of slots hit by the Skill considering buffs"
     },
     "EntityFullInfoIdentity": {
         "info": "Info",
