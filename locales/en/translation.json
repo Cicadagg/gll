@@ -543,6 +543,7 @@
     "GiftsHeader":{
         "description":"Selected EGO Gift Description",
         "obtain":"Way to Obtain:",
+        "obtainSinFragment":"All Fragments:",
         "buy":"Buying Cost:",
         "sell":"Selling Cost:",
         "craft":"Used to Craft:",
