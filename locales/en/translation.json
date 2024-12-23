@@ -175,6 +175,7 @@
             "ego": "Statuses related to EGOs",
             "sinner_story": "Statuses related to Sinners in story",
             "anomaly": "Statuses related only to enemy",
+            "md_gift":"Statuses related only to EGO Gifts",
             "none": "Statuses with unknown source"
         },
         "status": "Status",
