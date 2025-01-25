@@ -416,6 +416,8 @@
         "[clashablecounter]":"[Clashable Counter] ",
         "[onallykill]":"[On Ally Kill] ",
         "[onallykillfail]":"[On Ally Crit Kill Fail] ",
+        "[onhitwithoutcracking]":"[On Hit without cracking] ",
+        "[ontargetkill]":"[On Target Kill] ",
         "fc" : " Final Power",
         "bc" : " Base Power",
         "cg" : " Coin Power",
