@@ -79,7 +79,8 @@
                 "S":"Strong identities that require a lot of conditions for their realization",
                 "A":"Average in strength identities. Not bad, but not something outstanding",
                 "B":"The level of strength of these identities is below average, they are easily replaced and rarely used",
-                "C":"Weak identities unable to deal effectively with the game content"
+                "C":"Weak identities unable to deal effectively with the game content",
+                "Test":"We are checking the Identity mapping, it is still in progress."
             },
             "ego":{
                 "SSS":"The strongest and most versatile EGOs, used effectively in the vast majority of situations",
@@ -87,7 +88,8 @@
                 "S":"Strong EGOs used in rare or specific situations or not powerful enough for SS range",
                 "A":"Medium strong EGOs that are rarely used and are often replaced by their counterparts",
                 "B":"Mediocre EGOs that are rarely used and do little work",
-                "C":"Weak EGOs unable to compete with their counterparts"
+                "C":"Weak EGOs unable to compete with their counterparts",
+                "Test":"We're checking the EGO mapping, it's still in progress."
             }
         }
         
