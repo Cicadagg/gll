@@ -420,6 +420,7 @@
         "[onallykillfail]":"[On Ally Crit Kill Fail] ",
         "[onhitwithoutcracking]":"[On Hit without cracking] ",
         "[ontargetkill]":"[On Target Kill] ",
+        "[encounterstart]":"[Encounter Start] ",
         "fc" : " Final Power",
         "bc" : " Base Power",
         "cg" : " Coin Power",
