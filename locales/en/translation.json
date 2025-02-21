@@ -421,6 +421,7 @@
         "[onhitwithoutcracking]":"[On Hit without cracking] ",
         "[ontargetkill]":"[On Target Kill] ",
         "[encounterstart]":"[Encounter Start] ",
+        "[turnstart]":"[Turn Start] ",
         "fc" : " Final Power",
         "bc" : " Base Power",
         "cg" : " Coin Power",
