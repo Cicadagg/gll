@@ -422,6 +422,7 @@
         "[ontargetkill]":"[On Target Kill] ",
         "[encounterstart]":"[Encounter Start] ",
         "[turnstart]":"[Turn Start] ",
+        "[beforegettinghit]":"[Before Getting Hit] ",
         "fc" : " Final Power",
         "bc" : " Base Power",
         "cg" : " Coin Power",
