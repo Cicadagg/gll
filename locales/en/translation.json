@@ -1,9 +1,11 @@
 {
     "MainInfo": {
         "headerDescription1":"Great Limbus Library is a fan site and database developed by the community, dedicated to Limbus Company.",
-        "headerDescription2":"If You want to keep up with the news about site updates, You can go to the ",
-        "headerDescription3":"SITE SUPPORT",
-        "headerDescription4":" section and go from there to Boosty, the latest news is published there for free."
+        "headerDescription2":"If you want to follow the news about the site update, you can go to our ", 
+        "headerDescription3": " DISCORD SERVER ", 
+        "headerDescription4": " and also to our ",
+        "headerDescription5": " BOOSTY ",
+        "headerDescription6": " to support us."
     },
     "EntitySection": {
         "new" : "Recently Released Identities and EGOs"
@@ -42,7 +44,7 @@
         "4":"General improvements to the site's interface and content",
         "header":"Site Improvement Plans",
         "contactUs":"If you have any ideas, suggestions, or just want to follow our activities, we are waiting for you on our ",
-        "contactUs2":"DISCORD",
+        "contactUs2":" DISCORD",
         "contactUs3":" server."
     },
     "LeftMenu":{
@@ -195,7 +197,7 @@
     },
     "ContactPage.title": "Contact",
     "ContactInfo": {
-        "header": "Original Document",
+        "header": "Contact us by e-mail:",
         "colleagues": {
             "header":"URL to Our Colleagues:",
             "1": "",
@@ -203,7 +205,7 @@
             "3": "",
             "4": ""
         },
-        "copied": "Nickname copied",
+        "emailCopied": "E-mail copied",
         "creator": "Website Creator",
         "workers.header": "Contributors to the Website:",
         "workers1": {
@@ -222,9 +224,7 @@
             "patron8":"[Floor of Social Sciences]",
             "patron9":"[Floor of Philosophy]",
             "patron10":"[Floor of Religion]",
-            "1.1":"Klinch as the Average Grade 9 Fixer (Thanks a lot for everything.)",
-            "1.2":"Selerm as the Detective, Lieutenant double-yefreitor",
-            "1.3":"RekinekFiveSeveN as Assistant Director of the “Multicrek” Office",
+            "1":"Reki5.7 as Assistant Director of the “Multicrek” Office",
             "2":"Unawakened",
             "3":"Sir Alonne as the Weakest LCB minmaxer",
             "4":"Unawakened",
@@ -234,15 +234,18 @@
             "8":"The Cyan Sunset as Carmen",
             "9":"Unawakened",
             "10.1":"FORGOTTEN as a war seal",
-            "10.2":"Xoskar as coffin of Funeral of the Dead Butterflies"
+            "10.2":"Xoskar as coffin of Funeral of the Dead Butterflies",
+            "11":"ꙢӚⅯ∑₦ꚎӥԘ in the role of Zwei knight"
         },
         "workers3": {
-        "header": "Lost Books:",
-        "1": "Kamikotosss",
-        "2": "ManulGod",
-        "3": "Vicissitude as a gift",
-        "4": "Licht & Ruchi as Workers for one Day",
-        "5": "hgjrtu as the most sane tier list maker"
+            "header": "Lost Books:",
+            "1":"Kamikotosss",
+            "2":"ManulGod",
+            "3":"Vicissitude as a gift",
+            "4":"Licht & Ruchi as Workers for one Day",
+            "5":"hgjrtu as the most sane tier list maker",
+            "6":"Klinch as the Average Grade 9 Fixer",
+            "7":"Selerm as the Detective, Lieutenant double-yefreitor"
         },
         "workers4": {
             "header": "Special Thanks:",
@@ -285,11 +288,14 @@
     "EntityFullInfoEGO":{
         "statuses":"Statuses",
         "res":"Resistances",
-        "cost":"Cost"
+        "cost":"Cost",
+        "switchImage1":"Awakening",
+        "switchImage2":"Corrosion"
     },
     "EntityFullInfoSkillEGO": {
         "baseValue": "Base Value",
-        "corrosion": "CORROSION",
+        "corrosion": "Corrosion",
+        "awakening": "Awakening",
         "coinGain": "Base Coin Gain",
         "guardType": "Guard Type",
         "damageType": "Damage Type",
@@ -298,7 +304,8 @@
         "maxCoin": "Maximum Coin Value (Base)",
         "coinCondition": "Maximum Coin Value considering Skill and Combat Passive conditions",
         "weightBase": "Number of slots hit by the Skill (Base)",
-        "weight": "Number of slots hit by the Skill considering buffs"
+        "weight": "Number of slots hit by the Skill considering buffs",
+        "offenseLevel": "offense Level"
     },
     "EntityFullInfoSkill": {
         "skill": "Skill",
@@ -311,8 +318,8 @@
         "sin": "Sin",
         "maxCoin": "Maximum Coin Value (Base)",
         "coinCondition": "Maximum Coin Value considering Skill and Combat Passive conditions [In Clash]",
-        "defenceLevel": "Defence Level",
-        "offenceLevel": "Offence Level",
+        "defenseLevel": "defense Level",
+        "offenseLevel": "offense Level",
         "minPotencial": "Minimum Potential Damage of the Skill (calculations by Sir Alonne)",
         "maxPotencial": "Maximum Potential Damage of the Skill (calculations by Sir Alonne)",
         "weightBase": "Number of slots hit by the Skill (Base)",
@@ -373,7 +380,9 @@
         "statuses": "Statuses",
         "stagger": "Stagger Threshold",
         "stats": "Stats",
-        "res": "Resistances"
+        "res": "Resistances",
+        "switchImage1":"Tier I-II",
+        "switchImage2":"Tier III-IV"
     },
     "EntityFullInfoPassive":{
         "res":" Res.",
