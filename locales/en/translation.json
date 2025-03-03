@@ -275,7 +275,21 @@
     "DisclaimerBanner.confirm": "GOT IT",
     "LoadingAnimation":{
         "text":"Loading",
-        "delay":"We are experiencing high server load; the wait will take a little longer."
+        "tooltip": "Try to reload the page.",
+        "delay1":"morj is considering what to say to you....",
+        "delay2": "Please wait a bit, Ritsy is looking for how to launch the site...",
+        "delay3": "Sir Alonne is doing a TierList rework...",
+        "delay4":"Please wait a little, we are writing a funny joke.",
+        "delay5":"Rumor has it that Sir Alone will rework the tier list... Someday... Maybe...",
+        "delay6":"Found a bug in the gifts? You better call Reki.",
+        "delay7":"Please wait we... Zzz... Zzz...",
+        "delay8":"Please, while you're still here, help! This site isn't what it seems, oh no, they're close, and... a... AAA...",
+        "delay9":"Loading, loading, loading, loading, loading, loading, loading, loading, loading, loading.",
+        "delay10":"When Abnormality «GLL Site» loads, Clerks logged into the «Status» tab will panic.",
+        "delay11":"«GLL Site» (FC-07-403) is an Abnormality taking the form of a Internet Site and make people argue about Tier List",
+        "delay12":"Wanna advice? Close this site © [Fired employee №57]",
+        "delay13":"There is Nothing There...",
+        "delay14":"Blue Star has sucked up all the data, we are trying to get it back."
     },
     "ErrorInfo":{
         "header":"Error",
