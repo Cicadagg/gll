@@ -446,5 +446,8 @@
         "info":"Select to View the Info",
         "crafts":"Fused EGO Gifts"
     },
-    "FiltersSection.none":"Keywordless"
+    "FiltersSection.none":"Keywordless",
+    "animations": {
+        "toggle": "Animations"
+    }
 }
