@@ -367,3 +367,9 @@ button {
   -moz-appearance: none;
   appearance: none;
 }
+
+.animations-disabled * {
+    animation: none !important;
+    transition: none !important;
+    transform: none !important;
+}

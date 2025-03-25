@@ -70,7 +70,7 @@
         position: absolute;
         top: 0px;
         width: 80vw !important;
-        transform-origin: bottom bottom;
+        transform-origin: bottom;
         z-index: 2;
     }
     .LanguageSelect--show{
@@ -79,4 +79,89 @@
     .LanguageSelect li:first-of-type{
         display: flex !important;
     }
+}
+.language-select-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.language-controls {
+    display: flex;
+    align-items: center;
+}
+
+.animation-label {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+    user-select: none;
+    padding-left: 4px;
+    font-size: 24px;
+}
+
+.animation-toggle {
+    position: relative;
+    width: 48px;
+    height: 24px;
+    background: rgba(175, 174, 180, 0.1);
+    border: 1px solid #AFAEB4;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+.animation-toggle::before {
+    content: '';
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    top: 2px;
+    left: 2px;
+    background: #AFAEB4;
+    transition: 0.4s;
+}
+
+input:checked + .animation-toggle {
+    background: rgba(76, 175, 80, 0.2);
+    border-color: #4CAF50;
+}
+
+input:checked + .animation-toggle::before {
+    transform: translateX(24px);
+    background: #4CAF50;
+}
+
+.animation-checkbox {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 0;
+    width: 0;
+}
+
+.animation-text {
+    color: #AFAEB4;
+    font-size: 24px;
+    transition: 0.4s;
+    white-space: nowrap;
+}
+
+.animation-label:hover .animation-text {
+    color: white;
+}
+
+.animation-label:hover .animation-toggle {
+    border-color: white;
+}
+
+.animation-label:hover .animation-toggle::before {
+    background: white;
+}
+
+.animation-label:active .animation-toggle::before {
+    width: 22px;
+    transition: 0.1s;
 }

@@ -17,11 +17,15 @@ import { TeamBuilderSVG } from "../svg/TeamBuilderSVG";
 import { TierListSVG } from "../svg/TierListSVG";
 import { MirrorDungeonSVG } from "../svg/MirrorDungeonSVG";
 import "./LeftMenu.css"
+import { useDispatch } from "react-redux";
+import { toggleAnimations } from "../../store/slices/animationSlice";
 
 export const LeftMenu:React.FC = () => {
     const location = useLocation();
     const {t,i18n} = useTranslation();
     const isMenuExpanded = useTypedSelector(store => store.leftMenuReducer);
+    const isAnimationsEnabled = useTypedSelector((state: any) => state.animation.isAnimationsEnabled);
+    const dispatch = useDispatch();
     const isCurrentLocation = (route:string)=>{
         try{
             const splited = location.pathname.split("/");
@@ -64,7 +68,7 @@ export const LeftMenu:React.FC = () => {
         >
             <nav>
                 <ul>
-                <li><Link to={`/${navLang}/`}><GLLSVG/> <span>GREAT <span>LIMBUS</span> LIBRARY</span></Link></li>
+                    <li><Link to={`/${navLang}/`}><GLLSVG/> <span>GREAT <span>LIMBUS</span> LIBRARY</span></Link></li>
                     {
                         links.map(({route,name,to,SVG}) =>{
                             const isCurrentRouteLocation = isCurrentLocation(route);
@@ -83,11 +87,21 @@ export const LeftMenu:React.FC = () => {
                             )
                         })
                     }
+                    <li className="animation-toggle-item">
+                        <label className="animation-label" onClick={(e) => e.stopPropagation()}>
+                            <input
+                                type="checkbox"
+                                checked={isAnimationsEnabled}
+                                onChange={() => dispatch(toggleAnimations())}
+                                className="animation-checkbox"
+                            />
+                            <div className="animation-toggle"></div>
+                            <span className="animation-text">{t('animations.toggle')}</span>
+                        </label>
+                    </li>
                 </ul>
             </nav>
             <LanguageSelect/>
-
         </div>
-
-    )
-}
+    );
+};

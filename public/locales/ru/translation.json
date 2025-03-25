@@ -447,5 +447,8 @@
         "info":"Нажмите, Чтобы Увидеть Информацию",
         "crafts":"Объединенные ЭГО Дары"
     },
-    "FiltersSection.none":"Отсутствует"
+    "FiltersSection.none":"Отсутствует",
+    "animations": {
+        "toggle": "Анимации"
+    }
 }
