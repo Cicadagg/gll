@@ -447,7 +447,7 @@
         "[encounterstart]":"[Encounter Start] ",
         "[turnstart]":"[Turn Start] ",
         "[beforegettinghit]":"[Before Getting Hit] ",
-        "[reuse-onhit]" : "[Reuse - On Hit] ",
+        "[reuseonhit]" : "[Reuse - On Hit] ",
         "[onunopposedattack]" : "[On Unopposed Attack] ",
         "fc" : " Final Power",
         "bc" : " Base Power",
