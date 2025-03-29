@@ -49,6 +49,7 @@
     },
     "LeftMenu":{
         "graditude":"SITE SUPPORT",
+        "turnament":"TURNAMENT",
         "tierlist":"TIER LIST",
         "teambuilder":"TEAM BUILDER",
         "identities":"IDENTITIES",
@@ -269,6 +270,10 @@
         "patrons2":{
             "header":"Our Patrons"
         }
+    },
+    "TurnamentPage.title":"Turnament",
+    "TurnamentInfo":{
+        
     },
     "DisclaimerBanner.1": " - is a fan site and database developed by the community dedicated to the game ",
     "DisclaimerBanner.2": "This site is not an official resource of ",
