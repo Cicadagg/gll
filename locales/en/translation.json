@@ -49,7 +49,7 @@
     },
     "LeftMenu":{
         "graditude":"SITE SUPPORT",
-        "turnament":"TURNAMENT",
+        "turnament":"TOURNAMENT",
         "tierlist":"TIER LIST",
         "teambuilder":"TEAM BUILDER",
         "identities":"IDENTITIES",
@@ -271,9 +271,57 @@
             "header":"Our Patrons"
         }
     },
-    "TurnamentPage.title":"Turnament",
+    "TurnamentPage.title":"Tournament",
     "TurnamentInfo":{
-        
+        "tournament": {
+            "header": "Tournament Information",
+            "passworldText": "This page is under testing, please enter the password to view the content."
+        },
+        "info": {
+            "header": "Tournament Information"
+        },
+        "info_title": "RR5 Tournament",
+        "description": {
+            "text1": "This tournament is held to raise funds for charity.",
+            "text2": "Teams from different cities participate in it.",
+            "text3": "The tournament takes place in several rounds, with a final match at the end."
+        },
+        "prize": {
+            "header": "Prize Fund",
+            "text": "The total prize pool is $10,000."
+        },
+        "infoAndRules": {
+            "header": "Information and Rules",
+            "text1": "Registration is open to everyone.",
+            "text2": "Matches will be held online."
+        },
+        "registration": {
+            "header": "Tournament Registration",
+            "text": "Registration is available until the start of the tournament."
+        },
+        "schedule": {
+            "header": "Match Schedule",
+            "text": "The schedule will be published a week before the start."
+        },
+        "contacts": {
+            "header": "Contact Information",
+            "text": "For questions, please contact by mail: example@example.com"
+        },
+        "info_and_rules": {
+            "header": "Rules",
+            "text": "For questions, please contact by mail: example@example.com"
+        },
+        "guests": {
+            "header": "Tournament Guests",
+            "organizers": "Organizers",
+            "commentators": "Commentators",
+            "observers": "Observers"
+        },
+        "password": {
+            "placeholder": "Enter password",
+            "submit": "Submit",
+            "error": "Incorrect password"
+        }
     },
     "DisclaimerBanner.1": " - is a fan site and database developed by the community dedicated to the game ",
     "DisclaimerBanner.2": "This site is not an official resource of ",
