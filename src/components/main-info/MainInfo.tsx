@@ -105,7 +105,7 @@ export const MainInfo: React.FC = () => {
     return (
         <section className="main-info">
             <header className="main-info-header-main">
-                <h1 onClick={() => setIsPanelOpen(!isPanelOpen)}> Great <span>Limbus</span> Library </h1>
+                <h1 onClick={() => setIsPanelOpen(!isPanelOpen)}> Great <span>BIMBUS</span> Library </h1>
                 <p className="main-info-header-description">
                     {t(`MainInfo.headerDescription1`)}<br /><br />
                     {t(`MainInfo.headerDescription2`)}
@@ -120,8 +120,17 @@ export const MainInfo: React.FC = () => {
                 </p>
                 <LanguageDisclaimer />
                 {isPanelOpen && <Panel />}
+                
             </header>
+            
             <section className="main-info-left">
+            <div className="reklamimgdiv"><a  href="https://boosty.to/gll-fun" target="_blank" rel="noopener noreferrer">
+                    <img className="reklamimg"
+                        src={i18n.language === 'ru' ? `/images/reklamaru.png` : `/images/reklamaen.png`} 
+                        alt="Boosty Link"
+                    />
+                </a></div>
+            
                 <EntitySection />
                 <NavigationSection />
                 <ToDoSection />
@@ -133,4 +142,4 @@ export const MainInfo: React.FC = () => {
             </section>
         </section>
     );
-};
+}

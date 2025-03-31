@@ -26,7 +26,7 @@ export const TierListPage:React.FC = () => {
     const queryKeys = getQuaryByParam(type);
     const {t} = useTranslation();
     return <CommonPageLayout>
-        <Analytics /> {/* Вставляем компонент для GA */}
+         <Analytics />
             <LoadingPageWrapper queryKeys={queryKeys}>
                 <SEOHelmet titleText={t("TierListPage.title") + " | Great Limbus Library"} descriptionText=""/>
                 <H1Component header={t("TierListPage.header")}/>

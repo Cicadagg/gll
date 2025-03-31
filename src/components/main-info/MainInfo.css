@@ -104,7 +104,17 @@
 .main-info-right{
     width: 25%;
 }
+@media (max-width: 13295px) {
 
+    .reklamimgdiv {
+        width: 900px;
+        height: 300px;
+     }
+     .reklamimg {
+        width: 100%;
+        height: 100%;
+     }
+}
 @media (max-width: 1295px) {
     .main-info section {
         width: 100%;
@@ -112,6 +122,14 @@
     .main-info-left {
         order: 1;
     }
+    .reklamimgdiv {
+        width: 900px;
+        height: 300px;
+     }
+     .reklamimg {
+        width: 100%;
+        height: 100%;
+     }
 }
 @media (max-width: 730px) {
     .main-info-header-main h1{
@@ -142,13 +160,23 @@
      .main-info-header-main{
         padding:20px;
     }
+    
+
 }
 @media (max-width: 400px) {
     
      .main-info-header-main p{
         font-size: 18px;
      }
-     
+     .reklamimgdiv {
+        width: 340px;
+        height: 200px;
+     }
+     .reklamimg {
+        width: 100%;
+        height: 100%;
+     }
+  
 }
 
 .panel {

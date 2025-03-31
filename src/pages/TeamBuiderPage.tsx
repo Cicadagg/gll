@@ -8,11 +8,13 @@ import { CommonPageLayout } from "./CommonPageLayout";
 import { LoadingPageWrapper } from "./LoadingPageWrapper";
 import { SEOHelmet } from "./SEOHelmet";
 import Analytics from "../components/Analytics"; // Импортируем ваш компонент
+import FloatingGif from '../components/FloatingGif';
 
 export const TeamBuilderPage:React.FC = () => {
     const {t} = useTranslation();
     return  <CommonPageLayout >
-        <Analytics /> {/* Вставляем компонент для GA */}
+         <Analytics />
+<FloatingGif />
         <LoadingPageWrapper queryKeys={["ego","identities","statuses"]}>
                 <SEOHelmet titleText={t("TeamBuilderPage.title") + " | Great Limbus Library"} descriptionText=""/>
                 <H1Component header={t("TeamBuilderPage.header")}/>

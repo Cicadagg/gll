@@ -1,0 +1,33 @@
+.gif-container {
+  position: fixed;
+  z-index: 9999; /* Чтобы гифка была поверх всего */
+  top: 0;
+  left: 0;
+  animation: moveGif 10s linear infinite; /* Анимация длится 10 секунд */
+}
+
+@keyframes moveGif {
+  0% {
+    transform: translate(0, 0); /* Начинаем с левого верхнего угла */
+  }
+  100% {
+    transform: translate(calc(100vw - 12rem), calc(100vh - 12rem)); /* Заканчиваем в правом нижнем углу */
+  }
+}
+@media (max-width: 13295px) {
+
+  .gif {
+      width: 10rem;
+      height: auto; 
+   }
+
+}
+@media (max-width: 400px) {
+  
+
+   .gif {
+    width: 5rem;
+    height: auto; 
+   }
+
+}

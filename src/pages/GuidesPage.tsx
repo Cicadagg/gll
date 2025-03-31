@@ -6,6 +6,7 @@ import { LoadingPageWrapper } from "./LoadingPageWrapper";
 import { SEOHelmet } from "./SEOHelmet";
 import { ListGuides } from "../components/list-guides/ListGuides";
 import Analytics from "../components/Analytics"; // Импортируем ваш компонент
+import FloatingGif from '../components/FloatingGif';
 
 export const GuidesPage:React.FC = () => {
     const {t} = useTranslation();
@@ -13,7 +14,8 @@ export const GuidesPage:React.FC = () => {
 
     return (
         <CommonPageLayout>
-            <Analytics /> {/* Вставляем компонент для GA */}
+             <Analytics />
+<FloatingGif />
             <LoadingPageWrapper queryKeys={["guides", "tags"]}>
                 <SEOHelmet titleText={t("GuidesPage.title") + " | Great Limbus Library"} descriptionText=""/>
                 <H1Component header={`${t("GuidesPage.header")}(${totalCount})`}/>

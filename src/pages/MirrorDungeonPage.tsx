@@ -7,6 +7,7 @@ import { H1Component } from "../components/h1-component/H1Component";
 import { MirrorDungeonNav } from "../components/mirror-dungeon/nav/MirrorDungeonNav";
 import { MDRouteHandler } from "../components/mirror-dungeon/route-type-handler/MDRouteHandler";
 import Analytics from "../components/Analytics"; // Импортируем ваш компонент
+import FloatingGif from '../components/FloatingGif';
 
 export const MirrorDungeonPage:React.FC = () => {
     const {i18n} = useTranslation();
@@ -20,7 +21,8 @@ export const MirrorDungeonPage:React.FC = () => {
     const queryKeys = ["md-gifts","md-events","statuses"];
     const {t} = useTranslation();
     return <CommonPageLayout>
-        <Analytics /> {/* Вставляем компонент для GA */}
+         <Analytics />
+<FloatingGif />
             <LoadingPageWrapper queryKeys={queryKeys}>
                 <H1Component header={t("MirrorDungeonPage.header")}/>
                 <MirrorDungeonNav/>

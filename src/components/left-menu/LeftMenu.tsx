@@ -68,7 +68,7 @@ export const LeftMenu:React.FC = () => {
         >
             <nav>
                 <ul>
-                <li><Link to={`/${navLang}/`}><GLLSVG/> <span>GREAT <span>LIMBUS</span> LIBRARY</span></Link></li>
+                <li><Link to={`/${navLang}/`}><GLLSVG/> <span>GREAT <span>BIMBUS</span> LIBRARY</span></Link></li>
                     {
                         links.map(({route,name,to,SVG}) =>{
                             const isCurrentRouteLocation = isCurrentLocation(route);

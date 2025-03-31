@@ -3,10 +3,12 @@ import { EntityFullInfoEGOMain } from "../components/entity-full-info/EntityFull
 import { CommonPageLayout } from "./CommonPageLayout";
 import { LoadingPageWrapper } from "./LoadingPageWrapper";
 import Analytics from "../components/Analytics"; // Импортируем ваш компонент
+import FloatingGif from '../components/FloatingGif';
 
 export const EGOPage:React.FC = () => {
     return <CommonPageLayout >
-        <Analytics /> {/* Вставляем компонент для GA */}
+         <Analytics />
+<FloatingGif />
     <LoadingPageWrapper queryKeys={["ego","statuses"]}>
         <EntityFullInfoEGOMain/>
     </LoadingPageWrapper>

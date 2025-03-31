@@ -50,7 +50,7 @@
     "LeftMenu":{
         "graditude":"SITE SUPPORT",
         "turnament":"TOURNAMENT",
-        "tierlist":"TIER LIST",
+        "tierlist":"NOT TIER LIST",
         "teambuilder":"TEAM BUILDER",
         "identities":"IDENTITIES",
         "guides":"GUIDES",
@@ -343,7 +343,8 @@
         "delay11":"«GLL Site» (FC-07-403) is an Abnormality taking the form of a Internet Site and make people argue about Tier List",
         "delay12":"Wanna advice? Close this site © [Fired employee №57]",
         "delay13":"There is Nothing There...",
-        "delay14":"Blue Star has sucked up all the data, we are trying to get it back."
+        "delay14":"Blue Star has sucked up all the data, we are trying to get it back.",
+        "delay15":"Your back is white.)))))"
     },
     "ErrorInfo":{
         "header":"Error",

@@ -3,10 +3,12 @@ import { TestComponentMDOption } from "../components/test-component-event/TestCo
 import { CommonPageLayout } from "./CommonPageLayout";
 import { LoadingPageWrapper } from "./LoadingPageWrapper";
 import Analytics from "../components/Analytics"; // Импортируем ваш компонент
+import FloatingGif from '../components/FloatingGif';
 
 export const EventTestPage:React.FC = () => {
     return <CommonPageLayout>
-        <Analytics /> {/* Вставляем компонент для GA */}
+         <Analytics />
+<FloatingGif />
     <LoadingPageWrapper queryKeys={["md-events","md-gifts","statuses"]}>
         <TestComponentMDOption/>
     </LoadingPageWrapper>

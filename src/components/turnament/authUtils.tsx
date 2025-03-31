@@ -7,30 +7,27 @@ const correctPassword = 'Ritsy'; // Здесь нужно указать пра�
 // Ключ для хранения в localStorage
 const storageKey = 'tournamentAuthorized';
 
-/**
- * Функция для проверки пароля
- */
+// Функция для проверки пароля
 export const checkPassword = (password: string): boolean => {
+    // Если введён текст "123456", перенаправляем на Рик Ролл
+    if (password === '123456') {
+        window.location.href = 'https://www.youtube.com/watch?v=dQw4w9WgXcQ';
+        return false;
+    }
     return password === correctPassword;
 };
 
-/**
- * Функция для сохранения авторизации в localStorage
- */
+// Функция для сохранения авторизации в localStorage
 export const saveAuthToLocalStorage = () => {
     localStorage.setItem(storageKey, 'true');
 };
 
-/**
- * Функция для проверки авторизации из localStorage
- */
+// Функция для проверки авторизации из localStorage
 export const isAuthorizedFromLocalStorage = (): boolean => {
     return localStorage.getItem(storageKey) === 'true';
 };
 
-/**
- * Хук для управления авторизацией
- */
+// Хук для управления авторизацией
 export const useAuth = () => {
     const [isAuthorized, setIsAuthorized] = useState(false);
     const [password, setPassword] = useState('');
