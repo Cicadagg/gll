@@ -61,6 +61,17 @@
         "mirror_dungeon":"MIRROR DUNGEON",
         "discord":"DISCORD"
     },
+    "ClearGll": {
+        "clear_all_gll": "Clear all GLL",
+        "confirm_clear": "Clear all GLL?",
+        "yes": "Yes",
+        "no": "No",
+        "clearing_gll": "Clearing all GLL",
+        "loading": "Loading",
+        "thanks_message": "Thank you for being with us, users.",
+        "continue_message": "We will continue to try to please you, user.",
+        "love_message": "We love you, user."
+    },
     "TierListPage":{
         "title":"Tier List",
         "header":"Tier List",

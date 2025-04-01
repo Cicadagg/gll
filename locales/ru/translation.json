@@ -62,6 +62,17 @@
         "mirror_dungeon":"ЗЕРКАЛЬНОЕ ПОДЗЕМЕЛЬЕ",
         "discord":"ДИСКОРД"
     },
+    "ClearGll": {
+        "clear_all_gll": "Очистить всех GLL",
+        "confirm_clear": "Очистить всех GLL?",
+        "yes": "Да",
+        "no": "Нет",
+        "clearing_gll": "Очистка всех GLL",
+        "loading": "Загрузка",
+        "thanks_message": "Спасибо за то что вы с нами, пользователь.",
+        "continue_message": "Мы и дальше будем стараться радовать вас, пользователь.",
+        "love_message": "Мы любим вас, пользователь."
+    },
     "TierListPage":{
         "title":"Тир Лист",
         "header":"Тир Лист",
