@@ -50,7 +50,7 @@
     "LeftMenu":{
         "graditude":"SITE SUPPORT",
         "turnament":"TOURNAMENT",
-        "tierlist":"NOT TIER LIST",
+        "tierlist":"TIER LIST",
         "teambuilder":"TEAM BUILDER",
         "identities":"IDENTITIES",
         "guides":"GUIDES",
@@ -60,17 +60,6 @@
         "contact":"SITE TEAM AND OUR COLLEAGUES",
         "mirror_dungeon":"MIRROR DUNGEON",
         "discord":"DISCORD"
-    },
-    "ClearGll": {
-        "clear_all_gll": "Clear all GLL",
-        "confirm_clear": "Clear all GLL?",
-        "yes": "Yes",
-        "no": "No",
-        "clearing_gll": "Clearing all GLL",
-        "loading": "Loading",
-        "thanks_message": "Thank you for being with us, users.",
-        "continue_message": "We will continue to try to please you, user.",
-        "love_message": "We love you, user."
     },
     "TierListPage":{
         "title":"Tier List",
@@ -354,8 +343,7 @@
         "delay11":"«GLL Site» (FC-07-403) is an Abnormality taking the form of a Internet Site and make people argue about Tier List",
         "delay12":"Wanna advice? Close this site © [Fired employee №57]",
         "delay13":"There is Nothing There...",
-        "delay14":"Blue Star has sucked up all the data, we are trying to get it back.",
-        "delay15":"Your back is white.)))))"
+        "delay14":"Blue Star has sucked up all the data, we are trying to get it back."
     },
     "ErrorInfo":{
         "header":"Error",
