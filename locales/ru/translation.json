@@ -61,7 +61,9 @@
         "aboutgame":"ОБ ИГРЕ",
         "contact":"КОМАНДА САЙТА И НАШИ КОЛЛЕГИ",
         "mirror_dungeon":"ЗЕРКАЛЬНОЕ ПОДЗЕМЕЛЬЕ",
-        "discord":"ДИСКОРД"
+        "discord":"ДИСКОРД",
+        "disableAnimations": "Выключить Анимацию",
+        "enableAnimations": "Включить Анимацию"
     },
     "TierListPage":{
         "title":"Тир Лист",
@@ -136,7 +138,9 @@
     },
     "TbSlots":{
         "reset":"Сбросить",
-        "slotsCount":"Количество слотов"
+        "slotsCount":"Количество слотов",
+        "download": "Скачать Пачку",
+        "upload": "Вставить Пачку"
     },
     "TbListIds":{
         "header":"Список Идентичностей",
