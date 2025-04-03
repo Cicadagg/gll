@@ -60,7 +60,9 @@
         "aboutgame":"ABOUT THE GAME",
         "contact":"SITE TEAM AND OUR COLLEAGUES",
         "mirror_dungeon":"MIRROR DUNGEON",
-        "discord":"DISCORD"
+        "discord":"DISCORD",
+        "disableAnimations": "Disable animations",
+        "enableAnimations": "Enable animations"
     },
     "TierListPage":{
         "title":"Tier List",
@@ -135,7 +137,9 @@
     },
     "TbSlots": {
         "reset": "Reset",
-        "slotsCount": "Number of slots"
+        "slotsCount": "Number of slots",
+        "download": "Download Data",
+        "upload": "Upload Data"
     },
     "TbListIds": {
         "header": "List of Identities",
