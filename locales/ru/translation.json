@@ -383,6 +383,9 @@
         "battlePassive":"Боевая пассивка",
         "supportPassive":"Саппорт пассивка"
     },
+    "Changelog":{
+        "headle":"Журнал изменений"
+    },
     "EntityFullInfoEGO":{
         "statuses":"Cтатусы",
         "res":"Сопротивления",

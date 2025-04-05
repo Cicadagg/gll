@@ -141,6 +141,9 @@
         "download": "Download Data",
         "upload": "Upload Data"
     },
+    "Changelog":{
+        "headle":"Changelog"
+    },
     "TbListIds": {
         "header": "List of Identities",
         "empty": "No available Identities. Try disabling some filters."
