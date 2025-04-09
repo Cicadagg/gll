@@ -139,7 +139,12 @@
         "reset": "Reset",
         "slotsCount": "Number of slots",
         "download": "Download Data",
-        "upload": "Upload Data"
+        "upload": "Upload Data",
+        "information": "Team information",
+        "teamName": "Team Name",
+        "teamDescription": "Team Description",
+        "presets": "Team meetings",
+        "savePreset": "Save the preset"
     },
     "Changelog":{
         "headle":"Changelog"
@@ -245,7 +250,8 @@
             "10.1":"FORGOTTEN as a war seal",
             "10.2":"Xoskar as coffin of Funeral of the Dead Butterflies",
             "11":"ꙢӚⅯ∑₦ꚎӥԘ as the Zwei knight",
-            "12":"1-Holopsicon-1  as a user, the EGO of Black Silence"
+            "12":"1-Holopsicon-1  as a user, the EGO of Black Silence",
+            "13":"umurik as the Silent Orchestra"
         },
         "workers3": {
             "header": "Lost Books:",
