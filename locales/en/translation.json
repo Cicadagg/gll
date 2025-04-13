@@ -20,7 +20,7 @@
     },
     "EventsSection":{
         "header":"Active events",
-        "teaser":"Active Tieser",
+        "teaser":"Active Teaser",
         "eventStarts":"Event starts in: ",
         "eventEnds":"Event ends in: ",
         "eventEnded": "Event recently ended",
