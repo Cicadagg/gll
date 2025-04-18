@@ -536,7 +536,7 @@
         "[clashablecounter]":"[Столкновение при Контратаке] ",
         "[onallykill]":"[При Убийстве Союзника] ",
         "[onallykillfail]":"[Неудача при Убийстве Союзника] ",
-        "[onhitwithoutcracking]":"[При атаке без Стеггера] ",
+        "[onhitwithoutcracking]":"[При попадании целой монетой] ",
         "[ontargetkill]":"[При убийстве цели] ",
         "[turnstart]":"[Начало Хода] ",
         "[encounterstart]":"[Начало Столкновения] ",
