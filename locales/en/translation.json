@@ -680,4 +680,17 @@
         "header":"Guides",
         "title":"Guides"
     }
+    ,
+    "status":{
+        "burn": "Burn",
+        "bleed": "Bleed",
+        "tremor": "Tremor",
+        "rupture": "Rupture",
+        "sinking": "Sinking",
+        "poise": "Poise",
+        "charge": "Charge",
+        "blunt": "Blunt",
+        "slash": "Slash",
+        "pierce": "Pierce"
+    }
 }
