@@ -294,12 +294,32 @@
         "info": {
             "header": "Tournament Information"
         },
-        "info_title": "RR5 Tournament",
-        "description": {
-            "text1": "This tournament is held to raise funds for charity.",
-            "text2": "Teams from different cities participate in it.",
-            "text3": "The tournament takes place in several rounds, with a final match at the end."
-        },
+        "sections": {
+            "rules": {
+                "title": "",
+                "text1": "",
+                "text2": "",
+                "text3": "",
+                "text4": "",
+                "text5": "",
+                "text6": "",
+                "text7": ""
+            },
+            "tournament": {
+                "title": "Tournament for Russian Audience",
+                "text1": "",
+                "text2": "",
+                "text3": "",
+                "text4": ""
+            },
+            "organizer": {
+                "title": "",
+                "text1": "",
+                "text2": "",
+                "text3": "",
+                "text4": ""
+            }
+            },
         "prize": {
             "header": "Prize Fund",
             "text": "The total prize pool is $10,000."
