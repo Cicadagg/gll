@@ -522,6 +522,7 @@
         "[tailshit]" : "[Tails Hit] ",
         "[oncrit]" : "[On Crit] ",
         "[indiscriminate]" : "[Indiscriminate] ",
+        "[unclashable]" : "[Unclashable] ",
         "[headsattackend]" : "[Heads Attack End] ",
         "[tailsattackend]" : "[Tails Attack End] ",
         "[failedkill]" : "[Failed Kill] ",
