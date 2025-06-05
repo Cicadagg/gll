@@ -530,6 +530,7 @@
         "[turnend]" : "[Turn End] ",
         "[skillend]" : "[Skill End] ",
         "[oncritkill]": "[On Crit Kill] ",
+        "[oncritkillagainstenemy]": "[On Crit Kill Against Enemy] ",
         "[beforeuse]":"[Before Use] ",
         "[clashablecounter]":"[Clashable Counter] ",
         "[onallykill]":"[On Ally Kill] ",
