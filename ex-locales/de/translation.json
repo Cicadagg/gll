@@ -237,8 +237,8 @@
         "coinCondition": "Maximaler Münzwert unter Berücksichtigung von Skill- und Kampfpassivbedingungen",
         "defenseLevel": "Verteidigungsstufe",
         "offenseLevel": "Angriffsstufe",
-        "minPotencial": "Minimale potenzielle Schadenshöhe der Fertigkeit (Berechnungen von Sir Alonne)",
-        "maxPotencial": "Maximale potenzielle Schadenshöhe der Fertigkeit (Berechnungen von Sir Alonne)",
+        "minPotencial": "Minimale potenzielle Schadenshöhe der Fertigkeit (Berechnungen von Sir Alonne) P.S see the Disclaimer of the Tier List",
+        "maxPotencial": "Maximale potenzielle Schadenshöhe der Fertigkeit (Berechnungen von Sir Alonne) P.S see the Disclaimer of the Tier List",
         "weightBase": "Anzahl der durch die Fertigkeit getroffenen Slots (Grundlage)",
         "weight": "Anzahl der durch die Fertigkeit getroffenen Slots unter Berücksichtigung von Buffs"
     },
