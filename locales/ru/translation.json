@@ -567,7 +567,7 @@
         "[onhitwithoutcracking]":"[При попадании целой монетой] ",
         "[ontargetkill]":"[При убийстве цели] ",
         "[turnstart]":"[Начало Хода] ",
-        "[encounterstart]":"[Начало Столкновения] ",
+        "[encounterstart]":"[Начало Боя] ",
         "[beforegettinghit]":"[До Получение Попадания] ",
         "[reuseonhit]" : "[Повторное Применение - При Попадании] ",
         "[onunopposedattack]" : "[При Атаке в Одностороннем Порядке] ",
