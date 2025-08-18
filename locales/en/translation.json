@@ -494,13 +494,21 @@
         "res":" Res.",
         "owned":" Owned"
     },
+    "EntityFullInfoReview":{
+        "Pros":" Pros",
+        "Cons":" Cons",
+        "ProsCons":"Pros-Cons",
+        "DisclaimerHeader":"Disclaimer",
+        "DisclaimerText":"Disclaimer" 
+    },
     "EntityFullInfoSkills":{
         "battlePassive":"Battle passive",
         "supportPassive":"Support passive",
         "tab":{
             "skills":"skills",
             "passives":"passives",
-            "sanity":"sanity"
+            "sanity":"sanity",
+            "review":"review"
         }
     },
     "SkillCoinDescription.clickToSeeDescription":"Click to see description",
