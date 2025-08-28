@@ -518,6 +518,7 @@
         "[onhit]" : "[On Hit] ",
         "[clashwin]" : "[Clash Win] ",
         "[combatstart]" : "[Combat Start] ",
+        "[combatend]" : "[Combat End] ",
         "[clashlose]" : "[Clash Lose] ",
         "[onuse]" : "[On Use] ",
         "[onkill]" : "[On Kill] ",
