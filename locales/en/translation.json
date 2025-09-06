@@ -516,6 +516,7 @@
     "SEOHelmet.description": "Great Limbus Library is a fan site and community-driven database dedicated to the Limbus Company game. Guides, Identities, EGOs, News, Events, Tier Lists, and Team Builder.",
     "SkillCoinDescription" : {
         "[onhit]" : "[On Hit] ",
+        "[headshitafterclashwin]" : "[Heads Hit after Clash Win] ",
         "[clashwin]" : "[Clash Win] ",
         "[combatstart]" : "[Combat Start] ",
         "[combatend]" : "[Combat End] ",
