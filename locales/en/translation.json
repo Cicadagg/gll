@@ -5,7 +5,8 @@
         "headerDescription3": " DISCORD SERVER ", 
         "headerDescription4": " and also to our ",
         "headerDescription5": " BOOSTY ",
-        "headerDescription6": " to support us."
+        "headerDescription6": " to support us.",
+        "serverError": "Server error, please try again later"
     },
     "EntitySection": {
         "new" : "Recently Released Identities and EGOs"

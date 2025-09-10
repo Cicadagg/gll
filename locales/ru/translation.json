@@ -5,7 +5,8 @@
         "headerDescription3":"ДИСКОРД СЕРВЕР",
         "headerDescription4":" а также на наш ",
         "headerDescription5":" БУСТИ ",
-        "headerDescription6":" чтобы поддержать нас."
+        "headerDescription6":" чтобы поддержать нас.",
+        "serverError": "Ошибка сервера, повторите попытку чуть позже"
     },
     "EntitySection": {
         "new" : "Недавно вышедшие Идентичности и ЭГО"
