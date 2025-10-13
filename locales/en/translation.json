@@ -506,8 +506,9 @@
         "Cons":" Cons",
         "ProsCons":"Pros-Cons",
         "DisclaimerHeader":"Disclaimer",
-        "contentinfoReview":"Review",
-        "DisclaimerText":"Disclaimer" 
+        "contentinfoReview":"Review", 
+        "DisclaimerText":"Disclaimer",
+        "GuideHeader":"Guide" 
     },
     "EntityFullInfoSkills":{
         "battlePassive":"Battle passive",
@@ -549,6 +550,7 @@
         "[skillend]" : "[Skill End] ",
         "[oncritkill]": "[On Crit Kill] ",
         "[oncritkillagainstenemy]": "[On Crit Kill Against Enemy] ",
+        "[oncritheadshit]": "[On Crit Heads Hit] ",
         "[beforeuse]":"[Before Use] ",
         "[clashablecounter]":"[Clashable Counter] ",
         "[onallykill]":"[On Ally Kill] ",
