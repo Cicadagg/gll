@@ -527,6 +527,7 @@
         "[onhit]" : "[On Hit] ",
         "[headshitafterclashwin]" : "[Heads Hit after Clash Win] ",
         "[clashwin]" : "[Clash Win] ",
+        "[clashstart]" : "[Clash Start] ",
         "[combatstart]" : "[Combat Start] ",
         "[combatend]" : "[Combat End] ",
         "[clashlose]" : "[Clash Lose] ",
