@@ -145,7 +145,7 @@
         "information":"Информация о команде",
         "teamName": "Название команды",
         "teamDescription": "Описание команды",
-        "presets": "Присеты команд",
+        "presets": "Пресеты команд",
         "savePreset": "Сохранить присет"
     },
     "TbListIds":{
