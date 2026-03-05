@@ -568,6 +568,8 @@
         "[beforegettinghit]":"[Before Getting Hit] ",
         "[reuseonhit]" : "[Reuse - On Hit] ",
         "[onunopposedattack]" : "[On Unopposed Attack] ",
+        "[attackend]" : "[Attack End] ",
+        "[onevadeuse]" : "[On Evade Use] ",
         "[coinstart]": "[Coin Start] ",
         "fc" : " Final Power",
         "bc" : " Base Power",
