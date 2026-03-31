@@ -1,18 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.ac70920a.css",
-    "main.js": "/static/js/main.3a56833d.js",
+    "main.css": "/static/css/main.bc0a625d.css",
+    "main.js": "/static/js/main.a0eb8e26.js",
     "static/media/limbus.webp": "/static/media/limbus.3ae3eb448c75b59fd518.webp",
-    "static/media/AlumniSans-SemiBold.ttf": "/static/media/AlumniSans-SemiBold.c431bd670b00b03d53e1.ttf",
-    "static/media/AlumniSans-Bold.ttf": "/static/media/AlumniSans-Bold.9987a2e1fa36bf2088f2.ttf",
-    "static/media/AlumniSans-Medium.ttf": "/static/media/AlumniSans-Medium.e7604b325cfb6339c34e.ttf",
+    "static/media/Comic Sans MS.ttf": "/static/media/Comic Sans MS.2be4a49a17700938dbc0.ttf",
     "index.html": "/index.html",
     "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
-    "main.ac70920a.css.map": "/static/css/main.ac70920a.css.map",
-    "main.3a56833d.js.map": "/static/js/main.3a56833d.js.map"
+    "main.bc0a625d.css.map": "/static/css/main.bc0a625d.css.map",
+    "main.a0eb8e26.js.map": "/static/js/main.a0eb8e26.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac70920a.css",
-    "static/js/main.3a56833d.js"
+    "static/css/main.bc0a625d.css",
+    "static/js/main.a0eb8e26.js"
   ]
 }
