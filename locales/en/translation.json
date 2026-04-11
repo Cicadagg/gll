@@ -144,7 +144,7 @@
         "information": "Team information",
         "teamName": "Team Name",
         "teamDescription": "Team Description",
-        "presets": "Team meetings",
+        "presets": "Team Presets",
         "savePreset": "Save the preset"
     },
     "Changelog":{
