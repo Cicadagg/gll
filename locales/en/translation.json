@@ -549,6 +549,7 @@
         "[indiscriminate]" : "[Indiscriminate] ",
         "[unclashable]" : "[Unclashable] ",
         "[headsattackend]" : "[Heads Attack End] ",
+        "[currentcoinattackend]" : "[Current Coin Attack End] ",
         "[tailsattackend]" : "[Tails Attack End] ",
         "[failedkill]" : "[Failed Kill] ",
         "[critattackend]" : "[Crit Attack End] ",
