@@ -695,7 +695,8 @@
     "MirrorDungeonNav":{
         "rest-stops":"EGO Gift Fusion",
         "gifts":"EGO Gifts",
-        "events":"Events"
+        "events":"Events",
+        "themes":"Floor Themes"
     },
     "GiftsList":{
         "Gifts":"EGO Gifts",
@@ -723,11 +724,15 @@
         "check_failed":"Check Failed",
         "check_passed":"Check Passed",
         "gifts_list_header":"Possible EGO Gifts to Receive:",
+        "gifts_uniquegifts":"Unique Gifts",
+        "bosses":"Possible Bosses",
+        "events":"Events",
         "no_gifts":"None"
     },
     "MirrorDungeonPage":{
         "title_rs":"Shop Mirror Dungeon",
         "title_events":"Events Mirror Dungeon",
+        "title_themes":"Floor Themes Mirror Dungeon",
         "title_gifts":"EGO Gifts Mirror Dungeon",
         "header":"Mirror Dungeon"
     },
