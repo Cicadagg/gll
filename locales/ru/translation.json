@@ -522,6 +522,8 @@
         "release":"Дата Выхода: ",
         "statuses":"Cтатусы",
         "stagger":"Порог Оглушения",
+        "synEGO": "Подходящие EGO",
+        "synIDS": "Подходящие IDS",
         "stats":"Статы",
         "res":"Сопротивления",
         "switchImage1":"Тир I-II",

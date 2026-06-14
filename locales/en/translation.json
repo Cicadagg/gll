@@ -499,6 +499,8 @@
         "release":"Release: ",
         "statuses": "Statuses",
         "stagger": "Stagger Threshold",
+        "synEGO": "Matching EGO",
+        "synIDS": "Matching IDS",
         "stats": "Stats",
         "res": "Resistances",
         "switchImage1":"Tier I-II",
