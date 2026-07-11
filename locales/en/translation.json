@@ -150,6 +150,7 @@
     },
     "TbSynergy": {
         "map": "Synergy Map",
+        "mapTooltip": "Shows combat members only. Each pair gets +2 for every shared status/keyword, +4 for direct recommended links, and -2 for anti-synergy. The number above an ID is the sum of all its pair scores; the center number is the team total.",
         "pairs": "Synergy Pairs",
         "needMembers": "Select 2+ members to see synergy map",
         "noPairs": "No synergy pairs yet"
