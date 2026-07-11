@@ -145,7 +145,14 @@
         "teamName": "Team Name",
         "teamDescription": "Team Description",
         "presets": "Team Presets",
+        "symmetry": "Symmetry",
         "savePreset": "Save the preset"
+    },
+    "TbSynergy": {
+        "map": "Synergy Map",
+        "pairs": "Synergy Pairs",
+        "needMembers": "Select 2+ members to see synergy map",
+        "noPairs": "No synergy pairs yet"
     },
     "Changelog":{
         "headle":"Changelog"
