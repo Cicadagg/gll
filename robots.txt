@@ -1,1 +1,6 @@
-Sitemap: https://gll-fun.com/sitemap.txt
+User-agent: *
+Allow: /
+Disallow: /limbus/en/test/
+Disallow: /limbus/ru/test/
+
+Sitemap: https://gll-fun.com/sitemap-index.xml
