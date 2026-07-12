@@ -50,7 +50,7 @@
         "contactUs3":" server."
     },
     "LeftMenu":{
-        "graditude":"SITE SUPPORT",
+        "gratitude":"SITE SUPPORT",
         "turnament":"TOURNAMENT",
         "tierlist":"TIER LIST",
         "teambuilder":"TEAM BUILDER",
@@ -63,7 +63,10 @@
         "mirror_dungeon":"MIRROR DUNGEON",
         "discord":"DISCORD",
         "disableAnimations": "Disable animations",
-        "enableAnimations": "Enable animations"
+        "enableAnimations": "Enable animations",
+        "collapseMenu": "Collapse sidebar",
+        "expandMenu": "Expand sidebar",
+        "navigation": "Main navigation"
     },
     "TierListPage":{
         "title":"Tier List",
@@ -288,8 +291,8 @@
             "2": "Limi from lethe"
         }
     },
-    "GraditudePage.title":"Graditudes",
-    "GraditudeInfo":{
+    "GratitudePage.title":"Gratitude",
+    "GratitudeInfo":{
         "text-donation":{
             "header":"Support Information",
             "text1":"Our project needs Your support to expand its functionality.",

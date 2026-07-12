@@ -51,7 +51,7 @@
         "contactUs3":" сервере."
     },
     "LeftMenu":{
-        "graditude":"ПОДДЕРЖКА САЙТА",
+        "gratitude":"ПОДДЕРЖКА САЙТА",
         "turnament":"ТУРНИР",
         "tierlist":"ТИР ЛИСТ",
         "teambuilder":"ТИМ БИЛДЕР",
@@ -64,7 +64,10 @@
         "mirror_dungeon":"ЗЕРКАЛЬНОЕ ПОДЗЕМЕЛЬЕ",
         "discord":"ДИСКОРД",
         "disableAnimations": "Выключить Анимацию",
-        "enableAnimations": "Включить Анимацию"
+        "enableAnimations": "Включить анимации",
+        "collapseMenu": "Свернуть панель",
+        "expandMenu": "Развернуть панель",
+        "navigation": "Основная навигация"
     },
     "TierListPage":{
         "title":"Тир Лист",
@@ -287,8 +290,8 @@
         }
         
     },
-    "GraditudePage.title":"Поддержка",
-    "GraditudeInfo":{
+    "GratitudePage.title":"Поддержка",
+    "GratitudeInfo":{
         "text-donation":{
             "header":"Информация о Донате",
             "text1":"Пожертвования нужны Нашему проекту для ускорения расширения его функционала.",
