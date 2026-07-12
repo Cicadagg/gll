@@ -2789,16 +2789,6 @@
       "description": "Great Trichiliocosm 【三千大世界】 ryoshu is a Limbus Company E.G.O. View skills, passive effects, resource costs, and resistances."
     }
   },
-  "/ego/ego_94": {
-    "ru": {
-      "title": "Пролитые слёзы порченой крови hong lu — E.G.O | Great Limbus Library",
-      "description": "Пролитые слёзы порченой крови hong lu — E.G.O в Limbus Company. Навыки, пассивный эффект, стоимость ресурсов и сопротивления."
-    },
-    "en": {
-      "title": "Tears of the Tarnished Blood 【汚血泣淚】 hong lu — E.G.O | Great Limbus Library",
-      "description": "Tears of the Tarnished Blood 【汚血泣淚】 hong lu is a Limbus Company E.G.O. View skills, passive effects, resource costs, and resistances."
-    }
-  },
   "/ego/ego_110": {
     "ru": {
       "title": "Торжественный траур yi sang — E.G.O | Great Limbus Library",
@@ -2807,6 +2797,16 @@
     "en": {
       "title": "Solemn Lament yi sang — E.G.O | Great Limbus Library",
       "description": "Solemn Lament yi sang is a Limbus Company E.G.O. View skills, passive effects, resource costs, and resistances."
+    }
+  },
+  "/ego/ego_94": {
+    "ru": {
+      "title": "Пролитые слёзы порченой крови hong lu — E.G.O | Great Limbus Library",
+      "description": "Пролитые слёзы порченой крови hong lu — E.G.O в Limbus Company. Навыки, пассивный эффект, стоимость ресурсов и сопротивления."
+    },
+    "en": {
+      "title": "Tears of the Tarnished Blood 【汚血泣淚】 hong lu — E.G.O | Great Limbus Library",
+      "description": "Tears of the Tarnished Blood 【汚血泣淚】 hong lu is a Limbus Company E.G.O. View skills, passive effects, resource costs, and resistances."
     }
   },
   "/ego/ego_84": {
