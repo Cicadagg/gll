@@ -1,14 +1,4 @@
 {
-  "/identities/id_83": {
-    "ru": {
-      "title": "ЭГО «Лоботомии»:: Фонарь don quixote — личность | Great Limbus Library",
-      "description": "ЭГО «Лоботомии»:: Фонарь don quixote — личность Limbus Company. Навыки, пассивки, характеристики, сопротивления и игровые механики."
-    },
-    "en": {
-      "title": "Lobotomy E.G.O::Lantern don quixote — Identity | Great Limbus Library",
-      "description": "Lobotomy E.G.O::Lantern don quixote is a Limbus Company Identity. View skills, passives, stats, resistances, and gameplay mechanics."
-    }
-  },
   "/identities/id_24": {
     "ru": {
       "title": "Средний молот Корп. N don quixote — личность | Great Limbus Library",
@@ -27,6 +17,16 @@
     "en": {
       "title": "LCA Udjat Vanguard Team 3 Leader outis — Identity | Great Limbus Library",
       "description": "LCA Udjat Vanguard Team 3 Leader outis is a Limbus Company Identity. View skills, passives, stats, resistances, and gameplay mechanics."
+    }
+  },
+  "/identities/id_83": {
+    "ru": {
+      "title": "ЭГО «Лоботомии»:: Фонарь don quixote — личность | Great Limbus Library",
+      "description": "ЭГО «Лоботомии»:: Фонарь don quixote — личность Limbus Company. Навыки, пассивки, характеристики, сопротивления и игровые механики."
+    },
+    "en": {
+      "title": "Lobotomy E.G.O::Lantern don quixote — Identity | Great Limbus Library",
+      "description": "Lobotomy E.G.O::Lantern don quixote is a Limbus Company Identity. View skills, passives, stats, resistances, and gameplay mechanics."
     }
   },
   "/identities/id_25": {
