@@ -459,16 +459,6 @@
       "description": "Zwei Assoc. West Section 3 ishmael is a Limbus Company Identity. View skills, passives, stats, resistances, and gameplay mechanics."
     }
   },
-  "/identities/id_5": {
-    "ru": {
-      "title": "Грешник «LCB» mersault — личность | Great Limbus Library",
-      "description": "Грешник «LCB» mersault — личность Limbus Company. Навыки, пассивки, характеристики, сопротивления и игровые механики."
-    },
-    "en": {
-      "title": "LCB Sinner mersault — Identity | Great Limbus Library",
-      "description": "LCB Sinner mersault is a Limbus Company Identity. View skills, passives, stats, resistances, and gameplay mechanics."
-    }
-  },
   "/identities/id_96": {
     "ru": {
       "title": "Лидер «Дэд Рэбитс» mersault — личность | Great Limbus Library",
@@ -487,6 +477,16 @@
     "en": {
       "title": "Rosespanner Workshop Fixer mersault — Identity | Great Limbus Library",
       "description": "Rosespanner Workshop Fixer mersault is a Limbus Company Identity. View skills, passives, stats, resistances, and gameplay mechanics."
+    }
+  },
+  "/identities/id_5": {
+    "ru": {
+      "title": "Грешник «LCB» mersault — личность | Great Limbus Library",
+      "description": "Грешник «LCB» mersault — личность Limbus Company. Навыки, пассивки, характеристики, сопротивления и игровые механики."
+    },
+    "en": {
+      "title": "LCB Sinner mersault — Identity | Great Limbus Library",
+      "description": "LCB Sinner mersault is a Limbus Company Identity. View skills, passives, stats, resistances, and gameplay mechanics."
     }
   },
   "/identities/id_34": {
@@ -1609,16 +1609,6 @@
       "description": "LCB Sinner heathcliff is a Limbus Company Identity. View skills, passives, stats, resistances, and gameplay mechanics."
     }
   },
-  "/identities/id_182": {
-    "ru": {
-      "title": "Корректировщица офиса Рассвета faust — личность | Great Limbus Library",
-      "description": "Корректировщица офиса Рассвета faust — личность Limbus Company. Навыки, пассивки, характеристики, сопротивления и игровые механики."
-    },
-    "en": {
-      "title": "Dawn Office Fixer faust — Identity | Great Limbus Library",
-      "description": "Dawn Office Fixer faust is a Limbus Company Identity. View skills, passives, stats, resistances, and gameplay mechanics."
-    }
-  },
   "/identities/id_136": {
     "ru": {
       "title": "Младший брат «Среднего пальца» sinclair — личность | Great Limbus Library",
@@ -1717,6 +1707,16 @@
     "en": {
       "title": "Heishou Pack - Wu Branch Adept yi sang — Identity | Great Limbus Library",
       "description": "Heishou Pack - Wu Branch Adept yi sang is a Limbus Company Identity. View skills, passives, stats, resistances, and gameplay mechanics."
+    }
+  },
+  "/identities/id_182": {
+    "ru": {
+      "title": "Корректировщица офиса Рассвета faust — личность | Great Limbus Library",
+      "description": "Корректировщица офиса Рассвета faust — личность Limbus Company. Навыки, пассивки, характеристики, сопротивления и игровые механики."
+    },
+    "en": {
+      "title": "Dawn Office Fixer faust — Identity | Great Limbus Library",
+      "description": "Dawn Office Fixer faust is a Limbus Company Identity. View skills, passives, stats, resistances, and gameplay mechanics."
     }
   },
   "/identities/id_121": {
