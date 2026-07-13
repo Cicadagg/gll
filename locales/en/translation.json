@@ -153,7 +153,7 @@
     },
     "TbSynergy": {
         "map": "Synergy Map",
-        "mapTooltip": "Shows combat members only. Each pair gets +2 for every shared status/keyword, +4 for direct recommended links, and -2 for anti-synergy. The number above an ID is the sum of all its pair scores; the center number is the team total.",
+        "mapTooltip": "Shows combat members only. A link means that two Identities share a main archetype, have an exact recommended-ID relation, or receive a matching archetype from an equipped E.G.O. The number above an Identity is its number of linked allies, so one ally is never counted more than once. Gold links are recommendations; thin cyan links come only from E.G.O. An E marker means the equipped E.G.O is explicitly recommended for that Identity.",
         "pairs": "Synergy Pairs",
         "needMembers": "Select 2+ members to see synergy map",
         "noPairs": "No synergy pairs yet"
