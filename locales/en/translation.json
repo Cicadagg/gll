@@ -108,6 +108,7 @@
         "header":"Filters",
         "clearFilters":"Clear filters",
         "showFilters":"Show filters",
+        "hideFilters":"Hide filters",
         "empty":"The list is empty, but you can fix it by clearing some of the filters"
     },
     "TierBar":{
