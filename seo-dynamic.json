@@ -1829,6 +1829,16 @@
       "description": "Dawn Office Rep gregor is a Limbus Company Identity. View skills, passives, stats, resistances, and gameplay mechanics."
     }
   },
+  "/ego/ego_76": {
+    "ru": {
+      "title": "Торжественный траур gregor — E.G.O | Great Limbus Library",
+      "description": "Торжественный траур gregor — E.G.O в Limbus Company. Навыки, пассивный эффект, стоимость ресурсов и сопротивления."
+    },
+    "en": {
+      "title": "Solemn Lament gregor — E.G.O | Great Limbus Library",
+      "description": "Solemn Lament gregor is a Limbus Company E.G.O. View skills, passive effects, resource costs, and resistances."
+    }
+  },
   "/ego/ego_20": {
     "ru": {
       "title": "Жидкостный мешок don quixote — E.G.O | Great Limbus Library",
@@ -2629,16 +2639,6 @@
       "description": "Dimension Shredder outis is a Limbus Company E.G.O. View skills, passive effects, resource costs, and resistances."
     }
   },
-  "/ego/ego_76": {
-    "ru": {
-      "title": "Торжественный траур gregor — E.G.O | Great Limbus Library",
-      "description": "Торжественный траур gregor — E.G.O в Limbus Company. Навыки, пассивный эффект, стоимость ресурсов и сопротивления."
-    },
-    "en": {
-      "title": "Solemn Lament gregor — E.G.O | Great Limbus Library",
-      "description": "Solemn Lament gregor is a Limbus Company E.G.O. View skills, passive effects, resource costs, and resistances."
-    }
-  },
   "/ego/ego_78": {
     "ru": {
       "title": "Силки faust — E.G.O | Great Limbus Library",
@@ -2929,16 +2929,6 @@
       "description": "Solemn Lament yi sang is a Limbus Company E.G.O. View skills, passive effects, resource costs, and resistances."
     }
   },
-  "/guides/guide_2": {
-    "ru": {
-      "title": "Гайд на Ж/Д Преломления (РР4) | Great Limbus Library",
-      "description": "Гайд на Ж/Д Преломления (РР4) — гайд по Limbus Company с полезной информацией, советами и разбором игровых механик."
-    },
-    "en": {
-      "title": "Guide to Refraction Railway(RR4) | Great Limbus Library",
-      "description": "Guide to Refraction Railway(RR4) — a Limbus Company guide with practical information, tips, and gameplay explanations."
-    }
-  },
   "/guides/guide_3": {
     "ru": {
       "title": "Гайд на Ж/Д Преломления (РР5) | Great Limbus Library",
@@ -2967,6 +2957,16 @@
     "en": {
       "title": "Beginner's Guide | Great Limbus Library",
       "description": "Beginner's Guide — a Limbus Company guide with practical information, tips, and gameplay explanations."
+    }
+  },
+  "/guides/guide_2": {
+    "ru": {
+      "title": "Гайд на Ж/Д Преломления (РР4) | Great Limbus Library",
+      "description": "Гайд на Ж/Д Преломления (РР4) — гайд по Limbus Company с полезной информацией, советами и разбором игровых механик."
+    },
+    "en": {
+      "title": "Guide to Refraction Railway(RR4) | Great Limbus Library",
+      "description": "Guide to Refraction Railway(RR4) — a Limbus Company guide with practical information, tips, and gameplay explanations."
     }
   }
 }
