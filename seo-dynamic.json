@@ -59,16 +59,6 @@
       "description": "N Corp. E.G.O::Fell Bullet yi sang is a Limbus Company Identity. View skills, passives, stats, resistances, and gameplay mechanics."
     }
   },
-  "/identities/id_150": {
-    "ru": {
-      "title": "Стая «Хэйшоу»: Главнокомандующий ветвью У yi sang — личность | Great Limbus Library",
-      "description": "Стая «Хэйшоу»: Главнокомандующий ветвью У yi sang — личность Limbus Company. Навыки, пассивки, характеристики, сопротивления и игровые механики."
-    },
-    "en": {
-      "title": "Heishou Pack - Wu Branch Adept yi sang — Identity | Great Limbus Library",
-      "description": "Heishou Pack - Wu Branch Adept yi sang is a Limbus Company Identity. View skills, passives, stats, resistances, and gameplay mechanics."
-    }
-  },
   "/identities/id_167": {
     "ru": {
       "title": "Отец «Указательного пальца» Дома пауков yi sang — личность | Great Limbus Library",
@@ -87,6 +77,16 @@
     "en": {
       "title": "Lobotomy E.G.O::Regret faust — Identity | Great Limbus Library",
       "description": "Lobotomy E.G.O::Regret faust is a Limbus Company Identity. View skills, passives, stats, resistances, and gameplay mechanics."
+    }
+  },
+  "/identities/id_150": {
+    "ru": {
+      "title": "Стая «Хэйшоу»: Главнокомандующий ветвью У yi sang — личность | Great Limbus Library",
+      "description": "Стая «Хэйшоу»: Главнокомандующий ветвью У yi sang — личность Limbus Company. Навыки, пассивки, характеристики, сопротивления и игровые механики."
+    },
+    "en": {
+      "title": "Heishou Pack - Wu Branch Adept yi sang — Identity | Great Limbus Library",
+      "description": "Heishou Pack - Wu Branch Adept yi sang is a Limbus Company Identity. View skills, passives, stats, resistances, and gameplay mechanics."
     }
   },
   "/identities/id_89": {
