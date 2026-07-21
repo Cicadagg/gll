@@ -1,14 +1,4 @@
 {
-  "/identities/id_74": {
-    "ru": {
-      "title": "Агент зачистки 3-го класса Корп. W yi sang — личность | Great Limbus Library",
-      "description": "Агент зачистки 3-го класса Корп. W yi sang — личность Limbus Company. Навыки, пассивки, характеристики, сопротивления и игровые механики."
-    },
-    "en": {
-      "title": "W Corp. L3 Cleanup Agent yi sang — Identity | Great Limbus Library",
-      "description": "W Corp. L3 Cleanup Agent yi sang is a Limbus Company Identity. View skills, passives, stats, resistances, and gameplay mechanics."
-    }
-  },
   "/identities/id_103": {
     "ru": {
       "title": "Пуантилист-студент «Безымянного пальца» yi sang — личность | Great Limbus Library",
@@ -17,6 +7,16 @@
     "en": {
       "title": "The Ring Pointillist Student yi sang — Identity | Great Limbus Library",
       "description": "The Ring Pointillist Student yi sang is a Limbus Company Identity. View skills, passives, stats, resistances, and gameplay mechanics."
+    }
+  },
+  "/identities/id_74": {
+    "ru": {
+      "title": "Агент зачистки 3-го класса Корп. W yi sang — личность | Great Limbus Library",
+      "description": "Агент зачистки 3-го класса Корп. W yi sang — личность Limbus Company. Навыки, пассивки, характеристики, сопротивления и игровые механики."
+    },
+    "en": {
+      "title": "W Corp. L3 Cleanup Agent yi sang — Identity | Great Limbus Library",
+      "description": "W Corp. L3 Cleanup Agent yi sang is a Limbus Company Identity. View skills, passives, stats, resistances, and gameplay mechanics."
     }
   },
   "/identities/id_114": {
@@ -99,16 +99,6 @@
       "description": "Blade Lineage Salsu faust is a Limbus Company Identity. View skills, passives, stats, resistances, and gameplay mechanics."
     }
   },
-  "/identities/id_97": {
-    "ru": {
-      "title": "Лакей Грозового перевала faust — личность | Great Limbus Library",
-      "description": "Лакей Грозового перевала faust — личность Limbus Company. Навыки, пассивки, характеристики, сопротивления и игровые механики."
-    },
-    "en": {
-      "title": "Wuthering Heights Butler faust — Identity | Great Limbus Library",
-      "description": "Wuthering Heights Butler faust is a Limbus Company Identity. View skills, passives, stats, resistances, and gameplay mechanics."
-    }
-  },
   "/identities/id_110": {
     "ru": {
       "title": "Директор офиса «Мультикрэк» faust — личность | Great Limbus Library",
@@ -117,6 +107,16 @@
     "en": {
       "title": "MultiCrack Office Rep faust — Identity | Great Limbus Library",
       "description": "MultiCrack Office Rep faust is a Limbus Company Identity. View skills, passives, stats, resistances, and gameplay mechanics."
+    }
+  },
+  "/identities/id_97": {
+    "ru": {
+      "title": "Лакей Грозового перевала faust — личность | Great Limbus Library",
+      "description": "Лакей Грозового перевала faust — личность Limbus Company. Навыки, пассивки, характеристики, сопротивления и игровые механики."
+    },
+    "en": {
+      "title": "Wuthering Heights Butler faust — Identity | Great Limbus Library",
+      "description": "Wuthering Heights Butler faust is a Limbus Company Identity. View skills, passives, stats, resistances, and gameplay mechanics."
     }
   },
   "/identities/id_128": {
@@ -879,6 +879,16 @@
       "description": "The Pequod First Mate yi sang is a Limbus Company Identity. View skills, passives, stats, resistances, and gameplay mechanics."
     }
   },
+  "/identities/id_99": {
+    "ru": {
+      "title": "Служанка семьи Эдгар ishmael — личность | Great Limbus Library",
+      "description": "Служанка семьи Эдгар ishmael — личность Limbus Company. Навыки, пассивки, характеристики, сопротивления и игровые механики."
+    },
+    "en": {
+      "title": "Edgar Family Butler ishmael — Identity | Great Limbus Library",
+      "description": "Edgar Family Butler ishmael is a Limbus Company Identity. View skills, passives, stats, resistances, and gameplay mechanics."
+    }
+  },
   "/identities/id_87": {
     "ru": {
       "title": "Капитан «Пекода» ishmael — личность | Great Limbus Library",
@@ -889,14 +899,14 @@
       "description": "The Pequod Captain ishmael is a Limbus Company Identity. View skills, passives, stats, resistances, and gameplay mechanics."
     }
   },
-  "/identities/id_99": {
+  "/identities/id_141": {
     "ru": {
-      "title": "Служанка семьи Эдгар ishmael — личность | Great Limbus Library",
-      "description": "Служанка семьи Эдгар ishmael — личность Limbus Company. Навыки, пассивки, характеристики, сопротивления и игровые механики."
+      "title": "Претендентка на место главы семьи ishmael — личность | Great Limbus Library",
+      "description": "Претендентка на место главы семьи ishmael — личность Limbus Company. Навыки, пассивки, характеристики, сопротивления и игровые механики."
     },
     "en": {
-      "title": "Edgar Family Butler ishmael — Identity | Great Limbus Library",
-      "description": "Edgar Family Butler ishmael is a Limbus Company Identity. View skills, passives, stats, resistances, and gameplay mechanics."
+      "title": "Family Hierarch Candidate ishmael — Identity | Great Limbus Library",
+      "description": "Family Hierarch Candidate ishmael is a Limbus Company Identity. View skills, passives, stats, resistances, and gameplay mechanics."
     }
   },
   "/identities/id_116": {
@@ -917,16 +927,6 @@
     "en": {
       "title": "Kurokumo Clan Captain ishmael — Identity | Great Limbus Library",
       "description": "Kurokumo Clan Captain ishmael is a Limbus Company Identity. View skills, passives, stats, resistances, and gameplay mechanics."
-    }
-  },
-  "/identities/id_141": {
-    "ru": {
-      "title": "Претендентка на место главы семьи ishmael — личность | Great Limbus Library",
-      "description": "Претендентка на место главы семьи ishmael — личность Limbus Company. Навыки, пассивки, характеристики, сопротивления и игровые механики."
-    },
-    "en": {
-      "title": "Family Hierarch Candidate ishmael — Identity | Great Limbus Library",
-      "description": "Family Hierarch Candidate ishmael is a Limbus Company Identity. View skills, passives, stats, resistances, and gameplay mechanics."
     }
   },
   "/identities/id_15": {
@@ -959,16 +959,6 @@
       "description": "W Corp. L2 Cleanup Agent faust is a Limbus Company Identity. View skills, passives, stats, resistances, and gameplay mechanics."
     }
   },
-  "/identities/id_155": {
-    "ru": {
-      "title": "Представитель Офиса Чон ishmael — личность | Great Limbus Library",
-      "description": "Представитель Офиса Чон ishmael — личность Limbus Company. Навыки, пассивки, характеристики, сопротивления и игровые механики."
-    },
-    "en": {
-      "title": "Jeong's Office Rep ishmael — Identity | Great Limbus Library",
-      "description": "Jeong's Office Rep ishmael is a Limbus Company Identity. View skills, passives, stats, resistances, and gameplay mechanics."
-    }
-  },
   "/identities/id_164": {
     "ru": {
       "title": "Ученица «Среднего Пальца» Дома пауков ishmael — личность | Great Limbus Library",
@@ -977,6 +967,16 @@
     "en": {
       "title": "The House of Spiders: The Middle Apprentice ishmael — Identity | Great Limbus Library",
       "description": "The House of Spiders: The Middle Apprentice ishmael is a Limbus Company Identity. View skills, passives, stats, resistances, and gameplay mechanics."
+    }
+  },
+  "/identities/id_155": {
+    "ru": {
+      "title": "Представитель Офиса Чон ishmael — личность | Great Limbus Library",
+      "description": "Представитель Офиса Чон ishmael — личность Limbus Company. Навыки, пассивки, характеристики, сопротивления и игровые механики."
+    },
+    "en": {
+      "title": "Jeong's Office Rep ishmael — Identity | Great Limbus Library",
+      "description": "Jeong's Office Rep ishmael is a Limbus Company Identity. View skills, passives, stats, resistances, and gameplay mechanics."
     }
   },
   "/identities/id_16": {
@@ -1419,16 +1419,6 @@
       "description": "Cinq Assoc.South Section 4 outis is a Limbus Company Identity. View skills, passives, stats, resistances, and gameplay mechanics."
     }
   },
-  "/identities/id_49": {
-    "ru": {
-      "title": "4-я Южная секция ассоциации «Лю» ishmael — личность | Great Limbus Library",
-      "description": "4-я Южная секция ассоциации «Лю» ishmael — личность Limbus Company. Навыки, пассивки, характеристики, сопротивления и игровые механики."
-    },
-    "en": {
-      "title": "Liu Assoc. South Section 4 ishmael — Identity | Great Limbus Library",
-      "description": "Liu Assoc. South Section 4 ishmael is a Limbus Company Identity. View skills, passives, stats, resistances, and gameplay mechanics."
-    }
-  },
   "/identities/id_84": {
     "ru": {
       "title": "ЭГО «Лоботомии»:: Волшебная пуля outis — личность | Great Limbus Library",
@@ -1447,6 +1437,16 @@
     "en": {
       "title": "Wuthering Heights Chief Butler outis — Identity | Great Limbus Library",
       "description": "Wuthering Heights Chief Butler outis is a Limbus Company Identity. View skills, passives, stats, resistances, and gameplay mechanics."
+    }
+  },
+  "/identities/id_49": {
+    "ru": {
+      "title": "4-я Южная секция ассоциации «Лю» ishmael — личность | Great Limbus Library",
+      "description": "4-я Южная секция ассоциации «Лю» ishmael — личность Limbus Company. Навыки, пассивки, характеристики, сопротивления и игровые механики."
+    },
+    "en": {
+      "title": "Liu Assoc. South Section 4 ishmael — Identity | Great Limbus Library",
+      "description": "Liu Assoc. South Section 4 ishmael is a Limbus Company Identity. View skills, passives, stats, resistances, and gameplay mechanics."
     }
   },
   "/identities/id_61": {
@@ -1509,16 +1509,6 @@
       "description": "Heishou Pack - Mao Branch outis is a Limbus Company Identity. View skills, passives, stats, resistances, and gameplay mechanics."
     }
   },
-  "/identities/id_50": {
-    "ru": {
-      "title": "Корректировщица верфи Коренного ishmael — личность | Great Limbus Library",
-      "description": "Корректировщица верфи Коренного ishmael — личность Limbus Company. Навыки, пассивки, характеристики, сопротивления и игровые механики."
-    },
-    "en": {
-      "title": "Molar Boatworks Fixer ishmael — Identity | Great Limbus Library",
-      "description": "Molar Boatworks Fixer ishmael is a Limbus Company Identity. View skills, passives, stats, resistances, and gameplay mechanics."
-    }
-  },
   "/identities/id_147": {
     "ru": {
       "title": "Силовой коллектор 3-го класса Корп. Т outis — личность | Great Limbus Library",
@@ -1537,6 +1527,16 @@
     "en": {
       "title": "LCA Udjat Vanguard Team 3 Leader outis — Identity | Great Limbus Library",
       "description": "LCA Udjat Vanguard Team 3 Leader outis is a Limbus Company Identity. View skills, passives, stats, resistances, and gameplay mechanics."
+    }
+  },
+  "/identities/id_50": {
+    "ru": {
+      "title": "Корректировщица верфи Коренного ishmael — личность | Great Limbus Library",
+      "description": "Корректировщица верфи Коренного ishmael — личность Limbus Company. Навыки, пассивки, характеристики, сопротивления и игровые механики."
+    },
+    "en": {
+      "title": "Molar Boatworks Fixer ishmael — Identity | Great Limbus Library",
+      "description": "Molar Boatworks Fixer ishmael is a Limbus Company Identity. View skills, passives, stats, resistances, and gameplay mechanics."
     }
   },
   "/identities/id_78": {
